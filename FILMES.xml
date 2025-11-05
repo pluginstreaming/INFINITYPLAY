@@ -1,16 +1,537 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<items>
+#EXTM3U
 
 
-<item>
-<title>[COLOR silver][B] EM BUSCA DA FELICIDADE [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e797a0b1f50c0273d1b77ebf4c309e516cb0158e</link> 
-<thumbnail>https://media.themoviedb.org/t/p/original/iMs19K15L0Z7tWrlQRCN51uRn99.jpg</thumbnail>
-<fanart></fanart>
-<info>Shannon Thornton é Joy, uma talentosa, porém subestimada, estilista de moda. Sem sorte no amor e no trabalho, ela decide passar a véspera de Natal no Colorado com um cara de quem ela gosta. Mas, após receber uma notícia chocante e ficar presa em uma nevasca, Joy acaba cruzando o caminho de Ridge (Tosin Morohunfola), um encontro capaz de transformar para sempre sua visão sobre a vida e o amor.
-</info>
-</item>
 
 
-</items>
+#EXTINF:-1 tvg-name="Ghost (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NY6OikzfNUqUPTlyhc6FuhH8ui.jpg" ,Ghost (1990)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4662160.mp4
+#EXTINF:-1 tvg-name="A Festa de Formatura (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5P45oHuKIuMD1YYtksPuJ7sveQ.jpg" ,A Festa de Formatura (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4662159.mp4
+#EXTINF:-1 tvg-name="After (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kETWLjLTXNXppLduLlDxDEA38Ec.jpg" ,After (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4662158.mp4
+#EXTINF:-1 tvg-name="A Cinco Passos de Você (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwyySfv4kybDpVebZhyb0Bnk3dz.jpg" ,A Cinco Passos de Você (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4662157.mp4
+#EXTINF:-1 tvg-name="Um Casal Quase Perfeito 3 (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDOrR5QoO29devdsZHosRbNr4Oh.jpg" ,Um Casal Quase Perfeito 3 (2008)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661678.mp4
+#EXTINF:-1 tvg-name="Um Homem de Sorte (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1Fc5IPLbOsGidnudNpL2RTVoKm.jpg" ,Um Homem de Sorte (2012)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661677.mp4
+#EXTINF:-1 tvg-name="Um Lugar Chamado Notting Hill (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yFgNvFK870icK6SvTdeVyEjXN4.jpg" ,Um Lugar Chamado Notting Hill (1999)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661676.mp4
+#EXTINF:-1 tvg-name="O Guarda-Costas (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3u6I3UJ6UiWcpJarCpXMauJZwS4.jpg" ,O Guarda-Costas (1976)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661674.mp4
+#EXTINF:-1 tvg-name="Água para Elefantes (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yU7kerZsqvhsfLCMux5qC0vrcSg.jpg" ,Água para Elefantes (2011)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661666.mp4
+#EXTINF:-1 tvg-name="Uma Sereia em Paris (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxLjHNQKNsZXOHW2G4WQIzM2gI.jpg" ,Uma Sereia em Paris (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661665.mp4
+#EXTINF:-1 tvg-name="Yesterday (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hGo8YPZZTU0Dj5LrA9OhqpQBJj.jpg" ,Yesterday (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661664.mp4
+#EXTINF:-1 tvg-name="Zoe (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hagf4LA3FRD2o1wI3LhNzl0t5vo.jpg" ,Zoe (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661663.mp4
+#EXTINF:-1 tvg-name="Uma Segunda Chance Para Amar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vqkt1bZF5gDmID60jzhEip2WrL.jpg" ,Uma Segunda Chance Para Amar (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661662.mp4
+#EXTINF:-1 tvg-name="Uma Nova Chance (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTBbI5OGSklsJrTDGKHJljWDRQ1.jpg" ,Uma Nova Chance (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661661.mp4
+#EXTINF:-1 tvg-name="Vidas Entrelaçadas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aevWlVTI1VWMOCbsimPwDm3sbdQ.jpg" ,Vidas Entrelaçadas (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661660.mp4
+#EXTINF:-1 tvg-name="Vidas Entrelaçadas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aevWlVTI1VWMOCbsimPwDm3sbdQ.jpg" ,Vidas Entrelaçadas (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661659.mp4
+#EXTINF:-1 tvg-name="Vibes: Boas Vibrações (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJi48G13reeNFY5RxnXXeT1f3SR.jpg" ,Vibes: Boas Vibrações (1988)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661658.mp4
+#EXTINF:-1 tvg-name="Volta Pra Mim (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nFHCL1Hpl3x0FrVDPRo1yN6hMY.jpg" ,Volta Pra Mim (2022)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661657.mp4
+#EXTINF:-1 tvg-name="JJ+E (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tY2giXB3tUUhUPPjMi8zElHpQxY.jpg" ,JJ+E (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661656.mp4
+#EXTINF:-1 tvg-name="Uma Linda Mulher (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/biKuy0cj1ABfitVwMgnRqIPRfPB.jpg" ,Uma Linda Mulher (1990)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661655.mp4
+#EXTINF:-1 tvg-name="Uma Noiva em Apuros (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0Lkq7cXcVB8M4N3AHtJtpXtIg4.jpg" ,Uma Noiva em Apuros (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661654.mp4
+#EXTINF:-1 tvg-name="Um Amor Após a Vida (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mOuZrL4q1swV7sWPzTxZGgNzfK.jpg" ,Um Amor Após a Vida (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661653.mp4
+#EXTINF:-1 tvg-name="O Marido Perdido (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27C9BpXNKsirPBWjuKuqsZn466u.jpg" ,O Marido Perdido (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661651.mp4
+#EXTINF:-1 tvg-name="Um Casal Quase Perfeito 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtlJhKfES6zloJntAUbmU9J97rf.jpg" ,Um Casal Quase Perfeito 2 (2006)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661650.mp4
+#EXTINF:-1 tvg-name="Teste de Paternidade (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joeII71XIntnoevbG7F6o5y1wg1.jpg" ,Teste de Paternidade (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661648.mp4
+#EXTINF:-1 tvg-name="Um Reino Unido (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bl13OXBp7Ss1rkpHA0Nh3Girkmu.jpg" ,Um Reino Unido (2016)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661647.mp4
+#EXTINF:-1 tvg-name="Sintonizada em Você (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPXkdOyEUBfYsLWTZ0KQEo3z7HB.jpg" ,Sintonizada em Você (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661646.mp4
+#EXTINF:-1 tvg-name="Separados Mas Nem Tanto (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzqeaZ9326m77y40aSF4eYnMVHm.jpg" ,Separados Mas Nem Tanto (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661645.mp4
+#EXTINF:-1 tvg-name="Um Casal Inseparável (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJj7RenAAZ97GJpd9UYVC8Oj45H.jpg" ,Um Casal Inseparável (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661644.mp4
+#EXTINF:-1 tvg-name="Romance nas Alturas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6iv7xx0nbIqUzTFJwqHMB4xFXd.jpg" ,Romance nas Alturas (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661643.mp4
+#EXTINF:-1 tvg-name="Retiro do Amor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naKyAOql9YdcEoFslzdWXvMjHGY.jpg" ,Retiro do Amor (2023)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661642.mp4
+#EXTINF:-1 tvg-name="Um Fim de Semana Prolongado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiqc31USBF9k0RpytlcMkPmD5tv.jpg" ,Um Fim de Semana Prolongado (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661641.mp4
+#EXTINF:-1 tvg-name="Seus Olhos Dizem (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW1ZnWKT64Hl2Ti1kAchRzQz8tb.jpg" ,Seus Olhos Dizem (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661640.mp4
+#EXTINF:-1 tvg-name="Uma Festa no Ar (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48hcA0oSX7DmMrS8zaLVD3k8Pe7.jpg" ,Uma Festa no Ar (2004)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661639.mp4
+#EXTINF:-1 tvg-name="Segredos e Despedidas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNJHE5toiMWuF2GYaPY8VIl3qD1.jpg" ,Segredos e Despedidas (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661638.mp4
+#EXTINF:-1 tvg-name="Sintonizados no Amor (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dLLCmUg5QG18omzaYPIIZ3gj1W.jpg" ,Sintonizados no Amor (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661637.mp4
+#EXTINF:-1 tvg-name="Sem Reservas (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKQgFtGzkGBMPiJO6zZWXobvI3R.jpg" ,Sem Reservas (2007)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661636.mp4
+#EXTINF:-1 tvg-name="Simplesmente Acontece (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azlKLU8YN1dY5bknWVWprIdjc7X.jpg" ,Simplesmente Acontece (2014)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661635.mp4
+#EXTINF:-1 tvg-name="Tudo para Ficar com Ele (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QwTRFO3SFNueGrXGaCmRrBKb0d.jpg" ,Tudo para Ficar com Ele (2002)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661633.mp4
+#EXTINF:-1 tvg-name="Uma Ilha Quase Deserta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FjxLo1IRaeKFzCIjCn9Wv76zry.jpg" ,Uma Ilha Quase Deserta (2023)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661632.mp4
+#EXTINF:-1 tvg-name="Um Dia (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgEZqFqQgM81nVyHKtXDV0UxKGa.jpg" ,Um Dia (2011)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661631.mp4
+#EXTINF:-1 tvg-name="Se a Rua Beale Falasse (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gbiabIdvVv3iZcpdZEqHtbe0aU.jpg" ,Se a Rua Beale Falasse (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661630.mp4
+#EXTINF:-1 tvg-name="Really Love (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqqEHkLUdOyoDYcvXi0lUEeQ748.jpg" ,Really Love (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661629.mp4
+#EXTINF:-1 tvg-name="Um Amor para Recordar (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2UxmxiIOupjHmjs1Jl7TdWDVFc.jpg" ,Um Amor para Recordar (2002)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661628.mp4
+#EXTINF:-1 tvg-name="Táticas do Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96EnxT3dsE1Aob6CZOM5WWCt8bI.jpg" ,Táticas do Amor (2022)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661627.mp4
+#EXTINF:-1 tvg-name="Era Uma Vez Em Staten Island (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRosrdHtJQw1q2Y40juR7HLCEKu.jpg" ,Era Uma Vez Em Staten Island (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661626.mp4
+#EXTINF:-1 tvg-name="SS501 - 1st Concert Step Up (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHaVp0cU16N20TZrxCY8jhQQyGn.jpg" ,SS501 - 1st Concert Step Up (2006)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661625.mp4
+#EXTINF:-1 tvg-name="Rebecca - A Mulher Inesquecível (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7efwXeiNPymjN3WBSe3OnnkhSOw.jpg" ,Rebecca - A Mulher Inesquecível (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661624.mp4
+#EXTINF:-1 tvg-name="O Amor Floresce (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEfhmSKXKK58RkfuwLpjpRJBZsU.jpg" ,O Amor Floresce (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661623.mp4
+#EXTINF:-1 tvg-name="Um Conto de Fadas nas Montanhas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rT8CpN58v9Wu9BSbkO1gSLN6IzH.jpg" ,Um Conto de Fadas nas Montanhas (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661622.mp4
+#EXTINF:-1 tvg-name="Refúgio no Paraíso (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMm3l8WsrCNn7c5grTrmypHcnUA.jpg" ,Refúgio no Paraíso (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661620.mp4
+#EXTINF:-1 tvg-name="Traição e Desejo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAw0ayzQT6eIaiLGd1HD17WkOmw.jpg" ,Traição e Desejo (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661618.mp4
+#EXTINF:-1 tvg-name="Um Grande Garoto (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38idKGSXqTUUMy0gqbUfmNOBhwh.jpg" ,Um Grande Garoto (2002)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661617.mp4
+#EXTINF:-1 tvg-name="Um Match Surpresa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VoTb0s7nbCeotnDU27hBk9Olt9.jpg" ,Um Match Surpresa (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661616.mp4
+#EXTINF:-1 tvg-name="Histórias Cruzadas (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iWfEm9VOeX8AAnC7F1ApxRDTfw.jpg" ,Histórias Cruzadas (2011)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661614.mp4
+#EXTINF:-1 tvg-name="O Souvenir (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BAQYnWQaxuKAcTRMn95xvYmSTa.jpg" ,O Souvenir (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661613.mp4
+#EXTINF:-1 tvg-name="Mais Que Demais Pra Mim (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRJ7L5huiphoISr53arpwkHzdvR.jpg" ,Mais Que Demais Pra Mim (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661612.mp4
+#EXTINF:-1 tvg-name="Sob o Sol da Toscana (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvI0t29g8ZKWOr9NSt9UeFFhNbM.jpg" ,Sob o Sol da Toscana (2003)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661611.mp4
+#EXTINF:-1 tvg-name="Um Amor Inesperado (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/innH2zbhjqeTKbMpX2j3gxPuQ1i.jpg" ,Um Amor Inesperado (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661610.mp4
+#EXTINF:-1 tvg-name="Um Casal Quase Perfeito (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igDiLvOjYOGDApYpuW0eq65e0kV.jpg" ,Um Casal Quase Perfeito (1992)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661609.mp4
+#EXTINF:-1 tvg-name="Só Você (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWqjQusXc0BKH8Yd55aG0Zytpdw.jpg" ,Só Você (1994)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661608.mp4
+#EXTINF:-1 tvg-name="Para Sempre (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8AVXJ8ujLoRduPlI7TSs0nfv2rW.jpg" ,Para Sempre (2012)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661607.mp4
+#EXTINF:-1 tvg-name="Todo Dia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oGwEZS1QkZTxn2eyjH49rcHs6y.jpg" ,Todo Dia (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661604.mp4
+#EXTINF:-1 tvg-name="Um Romance nas Entrelinhas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzHj5QGYvMYymW4zY6aWFlZCWrZ.jpg" ,Um Romance nas Entrelinhas (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661602.mp4
+#EXTINF:-1 tvg-name="Segunda Chance para o Primeiro Amor (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RMBI40nnxYbTEkiFcev1dcbTov.jpg" ,Segunda Chance para o Primeiro Amor (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661601.mp4
+#EXTINF:-1 tvg-name="Ele é Um Gato! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/um5LJhvVVUWBKs0jcUCAaNHHRXt.jpg" ,Ele é Um Gato! (2023)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661600.mp4
+#EXTINF:-1 tvg-name="Questão de Tempo (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqEzxvGDYNzoQE7rayv7gRXBomt.jpg" ,Questão de Tempo (2013)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661599.mp4
+#EXTINF:-1 tvg-name="Além das Montanhas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4N22lC5mofacGHCH13VinxyaQ38.jpg" ,Além das Montanhas (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661597.mp4
+#EXTINF:-1 tvg-name="Tratamento de Realeza (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4myCGDieVwB9YSli5iFYiHBPNm.jpg" ,Tratamento de Realeza (2022)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661596.mp4
+#EXTINF:-1 tvg-name="Seja o Cara! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvJVkfDBOkc1nFDT5jELRuL3jCa.jpg" ,Seja o Cara! (2023)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661595.mp4
+#EXTINF:-1 tvg-name="História de um Casamento (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LaZ5rwaMvVH20J8O2Nu9uuXGI5.jpg" ,História de um Casamento (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661594.mp4
+#EXTINF:-1 tvg-name="Diário de uma Paixão (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A07izLVyZCrmq0HTvFg6qdqiZE5.jpg" ,Diário de uma Paixão (2004)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661593.mp4
+#EXTINF:-1 tvg-name="A Irmã do Noivo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1MEh4nfjUwa6q4GoDA2Kz32OIH.jpg" ,A Irmã do Noivo (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4661590.mp4
+#EXTINF:-1 tvg-name="Deite Comigo (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5FGc7POMpET6b2Do5p1scJYQy1.jpg" ,Deite Comigo (2005)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4660423.mp4
+#EXTINF:-1 tvg-name="Questão de Tempo (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqEzxvGDYNzoQE7rayv7gRXBomt.jpg" ,Questão de Tempo (2013)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532961.mp4
+#EXTINF:-1 tvg-name="女王蜂 (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUUeS0KWa8BgoAkz6FiNOQWsCW6.jpg" ,女王蜂 (1978)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532957.mp4
+#EXTINF:-1 tvg-name="Que Léon (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcQUbX6nUP9XE3Z0WHCH2zFDX0x.jpg" ,Que Léon (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532953.mp4
+#EXTINF:-1 tvg-name="Pérola no Paraíso (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tudQhTuHnhpoGx9dRnOPWYIGsM.jpg" ,Pérola no Paraíso (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532949.mp4
+#EXTINF:-1 tvg-name="Proposta Indecente (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lprpE4mfo0Fek6Gk88NQ5LSIhqT.jpg" ,Proposta Indecente (1993)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532945.mp4
+#EXTINF:-1 tvg-name="Pronta para Amar (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlmy1FgwRJRJzUmSh3FZXM4Bwb5.jpg" ,Pronta para Amar (2011)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532944.mp4
+#EXTINF:-1 tvg-name="Projeto Cupido (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht0NQOtWDruYXDBfO8NZMdWdUDM.jpg" ,Projeto Cupido (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532939.mp4
+#EXTINF:-1 tvg-name="Procurando Fígaro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BbYdVTS395PLwtpCrTR1S6iMYB.jpg" ,Procurando Fígaro (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532938.mp4
+#EXTINF:-1 tvg-name="Priscilla (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDCeELWWpsNq7ErM61Yuq70WAE9.jpg" ,Priscilla (2023)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532932.mp4
+#EXTINF:-1 tvg-name="Anjo da Minha Vida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9FINZQYODQRKKHagLdzsLdS7go.jpg" ,Anjo da Minha Vida (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532931.mp4
+#EXTINF:-1 tvg-name="Por Lugares Incríveis (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhQ3s1kdq1rVzq3xQNcOzvhwzTG.jpg" ,Por Lugares Incríveis (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532924.mp4
+#EXTINF:-1 tvg-name="Match Point (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tefwQtylm6045V3jO5GJWdeQ0SQ.jpg" ,Match Point (2005)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532923.mp4
+#EXTINF:-1 tvg-name="Pedido de Casamento (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aX6bgSHU3EuSUz7FNrSpg0N6Xib.jpg" ,Pedido de Casamento (2017)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532916.mp4
+#EXTINF:-1 tvg-name="Perdidos na Escuridão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aX6bgSHU3EuSUz7FNrSpg0N6Xib.jpg" ,Perdidos na Escuridão
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532915.mp4
+#EXTINF:-1 tvg-name="Para Todos os Garotos: P.S. Ainda Amo Você (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpdtbzeEImp5eT5wmwhVHhbklAk.jpg" ,Para Todos os Garotos: P.S. Ainda Amo Você (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532908.mp4
+#EXTINF:-1 tvg-name="Para Todos os Garotos que Já Amei (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clbkaZ7uy6mdBjrWWPBfnzF8sQP.jpg" ,Para Todos os Garotos que Já Amei (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532907.mp4
+#EXTINF:-1 tvg-name="Para Sempre Minha Garota (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNOYr7OGdlzja4a4nCSZsaCtA1V.jpg" ,Para Sempre Minha Garota (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532900.mp4
+#EXTINF:-1 tvg-name="Paixões Entrelaçadas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zweOqEOjTWlOMtvWA9ykOLvL1nU.jpg" ,Paixões Entrelaçadas (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532899.mp4
+#EXTINF:-1 tvg-name="Paixão Sem Limites (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwOLz8EhBMUqqVYSXj8Pf5NqjO9.jpg" ,Paixão Sem Limites (2010)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532891.mp4
+#EXTINF:-1 tvg-name="Os Embalos de Sábado à Noite (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3izZZs3rB6qdsAooxCxvSj42aj.jpg" ,Os Embalos de Sábado à Noite (1977)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532890.mp4
+#EXTINF:-1 tvg-name="P.S. Eu Te Amo (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AZq74AdUrSeaqDVHq7bJg9tlKZ.jpg" ,P.S. Eu Te Amo (2007)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532889.mp4
+#EXTINF:-1 tvg-name="Os Batutinhas (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4UChnACHypljR6fmKg6vuM14Nh.jpg" ,Os Batutinhas (1994)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532880.mp4
+#EXTINF:-1 tvg-name="Orgulho e Preconceito (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmnY0Zs8uMSHkMiol7M3xOlvvkK.jpg" ,Orgulho e Preconceito (2005)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532879.mp4
+#EXTINF:-1 tvg-name="Ofélia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1Wkthkn7AiJFS4OgSUrJqHhjez.jpg" ,Ofélia (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532878.mp4
+#EXTINF:-1 tvg-name="O Retiro de Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJWZMjTvJATghILwpLBQwmYoIpL.jpg" ,O Retiro de Natal (2022)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532869.mp4
+#EXTINF:-1 tvg-name="O Segredo de Brokeback Mountain (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZ7fvWbPABjdU8JciIS9f9jCRCb.jpg" ,O Segredo de Brokeback Mountain (2005)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532868.mp4
+#EXTINF:-1 tvg-name="O Retrato do Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89aG8Gv3oXkQmiBtWK2h3lOlAxY.jpg" ,O Retrato do Amor (2022)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532867.mp4
+#EXTINF:-1 tvg-name="O Presente (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLgGhDX0wTzdAkTLXAqrdONgiCd.jpg" ,O Presente (2007)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532858.mp4
+#EXTINF:-1 tvg-name="O Plano Imperfeito (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnyHkJNUWIxgNulxxYQPIJVAM56.jpg" ,O Plano Imperfeito (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532857.mp4
+#EXTINF:-1 tvg-name="O Pequeno Órfão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cdGOnHbMVqoUNcRfRNAKVZv3nm.jpg" ,O Pequeno Órfão (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532856.mp4
+#EXTINF:-1 tvg-name="O Par Perfeito (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtz6aSHRLF4wQKKCJQZU30r3WEt.jpg" ,O Par Perfeito (2016)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532847.mp4
+#EXTINF:-1 tvg-name="O Melhor de Mim (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Jdy0LnPZsdUTGnvCqpkvQwydud.jpg" ,O Melhor de Mim (2014)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532846.mp4
+#EXTINF:-1 tvg-name="O Melhor Amigo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQKKigyzTPfU10UUVnCZYTh8bGC.jpg" ,O Melhor Amigo (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532845.mp4
+#EXTINF:-1 tvg-name="O Mapa das Pequenas Coisas Perfeitas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djMLMmgVQ3MBEj2vHipBki5d5ol.jpg" ,O Mapa das Pequenas Coisas Perfeitas (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532836.mp4
+#EXTINF:-1 tvg-name="O Inferno de Gabriel (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qbYAHZkxfye1TI6HsQ8I6G3iiJ.jpg" ,O Inferno de Gabriel (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532835.mp4
+#EXTINF:-1 tvg-name="O Lado Bom da Vida (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5R2ZLkflncVmRzTvSVP7MooxZ0C.jpg" ,O Lado Bom da Vida (2012)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532834.mp4
+#EXTINF:-1 tvg-name="O Céu Está em Todo Lugar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJPsIaBEReV2byAUqUelqQKimy2.jpg" ,O Céu Está em Todo Lugar (2022)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532825.mp4
+#EXTINF:-1 tvg-name="O Date Perfeito (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thJQ8l4G7SipYicKtK8zinuyxQO.jpg" ,O Date Perfeito (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532824.mp4
+#EXTINF:-1 tvg-name="O Código Da Vinci (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/feyfwGwJOdUAAqjTP3vXJmSesAt.jpg" ,O Código Da Vinci (2006)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532823.mp4
+#EXTINF:-1 tvg-name="O Amor Não Tira Férias (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TvrnjDdIACRp9Jy4KWO3VxrUrg.jpg" ,O Amor Não Tira Férias (2006)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532822.mp4
+#EXTINF:-1 tvg-name="Não Me Abandone (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/234h9O3wS5vtE7KQKZgibTTxvBz.jpg" ,Não Me Abandone (2023)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532813.mkv
+#EXTINF:-1 tvg-name="Nossos Sonhos de Marte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pENW055usqNIzYB7YM0R61qFPMu.jpg" ,Nossos Sonhos de Marte (2022)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532812.mp4
+#EXTINF:-1 tvg-name="No Ritmo Indiano (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkYGM0pKeQYgcIaVGVKI7szkfpy.jpg" ,No Ritmo Indiano (2017)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532811.mp4
+#EXTINF:-1 tvg-name="Nos Braços de um Assassino (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bjCZeMN03QWqt4wVXU0JvH2zkj.jpg" ,Nos Braços de um Assassino (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532810.mp4
+#EXTINF:-1 tvg-name="Na Sinfonia do Coração (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmnU2u5WJjl8R6Q0JX2eBN7RpGY.jpg" ,Na Sinfonia do Coração (2022)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532801.mp4
+#EXTINF:-1 tvg-name="Minha Festa de 30 Anos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJJiJoUGV7QDiQIHTCRoMMz6E8z.jpg" ,Minha Festa de 30 Anos (2016)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532800.mp4
+#EXTINF:-1 tvg-name="Minha Amiga Palma (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSPMIVPsV25N2eww4AfE7JEHpOE.jpg" ,Minha Amiga Palma (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532799.mp4
+#EXTINF:-1 tvg-name="Meus Dias de Compaixão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFZS12Fz8l5GYThYFTvMIoSGH6E.jpg" ,Meus Dias de Compaixão (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532798.mp4
+#EXTINF:-1 tvg-name="Meu Romance Perfeito (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QIR5hQMQNGqUeZbouqT9w5mYfn.jpg" ,Meu Romance Perfeito (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532789.mp4
+#EXTINF:-1 tvg-name="Meu Próprio Conto de Fadas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QvxQvYobRI8LHL5DKle7IiFmLb.jpg" ,Meu Próprio Conto de Fadas (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532788.mp4
+#EXTINF:-1 tvg-name="Meu Eterno Talvez (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/borvKS97pqj3jnkumWHpKmnoAIZ.jpg" ,Meu Eterno Talvez (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532787.mp4
+#EXTINF:-1 tvg-name="Meu Eterno Primeiro Amor (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31h3yYXMvUhvr0rjMzpvnj9NwCN.jpg" ,Meu Eterno Primeiro Amor (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532786.mp4
+#EXTINF:-1 tvg-name="Me Chame Pelo Seu Nome (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnf5Onsk236CdE5Lff93IX69gHf.jpg" ,Me Chame Pelo Seu Nome (2017)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532774.mp4
+#EXTINF:-1 tvg-name="Mesa para Quatro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4iHOgjnPRUHaobosB9HIiMPSE9W.jpg" ,Mesa para Quatro (2022)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532773.mp4
+#EXTINF:-1 tvg-name="Mary Shelley (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKHJTsrfxJtfFNPQJn2hDNEMtFf.jpg" ,Mary Shelley (2017)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532772.mp4
+#EXTINF:-1 tvg-name="Memórias de um Amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9XUuQyDWJn4Tnn9iW2BGRCJf15.jpg" ,Memórias de um Amor (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532771.mp4
+#EXTINF:-1 tvg-name="Malcolm e Marie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHyVLN6rsG0s29M2T4yaMnpvE2f.jpg" ,Malcolm e Marie
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532758.mp4
+#EXTINF:-1 tvg-name="Malcolm & Marie (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZDAW4nmlC2cT9vM4fRxTQWHddE.jpg" ,Malcolm & Marie (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532757.mp4
+#EXTINF:-1 tvg-name="Lindo de Morrer (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhm9NhbSM57VpFxzX3cGFSyeGs7.jpg" ,Lindo de Morrer (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532756.mp4
+#EXTINF:-1 tvg-name="La La Land: Cantando Estações (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yArr9VMatOTEMRZ0H1s8pNHQW78.jpg" ,La La Land: Cantando Estações (2016)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532755.mp4
+#EXTINF:-1 tvg-name="Kings: Los Angeles em Chamas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dU3zEk09l4GAVxyh1TuDlseJjV5.jpg" ,Kings: Los Angeles em Chamas (2017)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532741.mp4
+#EXTINF:-1 tvg-name="Loving (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ansUG7cVKso5uEMUQkzFhqZEwWC.jpg" ,Loving (1996)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532740.mp4
+#EXTINF:-1 tvg-name="Jovens Corações (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dD1ds2QRt06SzSvYZakxRNWv5SQ.jpg" ,Jovens Corações (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532739.mp4
+#EXTINF:-1 tvg-name="Homem ao Mar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5IBg0AEZR6roN1nOrDVIXbkis6.jpg" ,Homem ao Mar (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532738.mp4
+#EXTINF:-1 tvg-name="Isi & Ossi (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZ7H0kCwEM6CQ0dyCs2H4RkU130.jpg" ,Isi & Ossi (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532737.mp4
+#EXTINF:-1 tvg-name="Finding Your Purpose (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" ,Finding Your Purpose (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532722.mp4
+#EXTINF:-1 tvg-name="Histórias Cruzadas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jE2xL8sOo8brT6v5jJ6iFg8qfs.jpg" ,Histórias Cruzadas (2016)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532721.mp4
+#EXTINF:-1 tvg-name="Fugindo do Amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92H1ZRhTMXljh8KA5oI1ZhPe8Gf.jpg" ,Fugindo do Amor (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532720.mp4
+#EXTINF:-1 tvg-name="Farol das Orcas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHEYA3MhmauRQ3kit0ewQ9KtgNW.jpg" ,Farol das Orcas (2016)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532719.mp4
+#EXTINF:-1 tvg-name="Fomos Canções (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6trdorqJcPICzDCBnsTQdurTeG.jpg" ,Fomos Canções (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532718.mp4
+#EXTINF:-1 tvg-name="Eu Posso Ouvir o Oceano (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xNEkYR9EkcBG1EjiOwyl0oXLU7.jpg" ,Eu Posso Ouvir o Oceano (1993)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532703.mp4
+#EXTINF:-1 tvg-name="Eternamente Demais pra Mim (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11AJFCi2WJb8A8IT2i5ry9P4Iew.jpg" ,Eternamente Demais pra Mim (2022)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532702.mp4
+#EXTINF:-1 tvg-name="Entre Lençóis (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hH65U9x7XaovBM2gjq7goKcr1km.jpg" ,Entre Lençóis (2008)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532701.mp4
+#EXTINF:-1 tvg-name="Entrevista com o Vampiro (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKqRTSEeOaO6x4pqc5y36qnnHsq.jpg" ,Entrevista com o Vampiro (1994)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532700.mp4
+#EXTINF:-1 tvg-name="Estrada para a Loucura (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knIWMlk0Vpaxe41v4jp5WodNodw.jpg" ,Estrada para a Loucura (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532699.mp4
+#EXTINF:-1 tvg-name="Encruzilhada (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnExk4j3yiXCpew16F5yuQB8wuE.jpg" ,Encruzilhada (2013)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532698.mp4
+#EXTINF:-1 tvg-name="Encontro por Acaso (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whow3cyd0JkNld9XVuW1T6enndK.jpg" ,Encontro por Acaso (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532697.mp4
+#EXTINF:-1 tvg-name="Entre Amores e Cores (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFJp0AipzYQkVdbzzOErTNzJKCG.jpg" ,Entre Amores e Cores (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532696.mp4
+#EXTINF:-1 tvg-name="Encontro Marcado (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xa4VLDaWdH44zxuUPikPBfTl9M.jpg" ,Encontro Marcado (1998)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532680.mp4
+#EXTINF:-1 tvg-name="Em Cima Do Muro (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9f1tTenIreJSKAxuPpICFhrzw4d.jpg" ,Em Cima Do Muro (2017)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532679.mp4
+#EXTINF:-1 tvg-name="Ele é Um Gato! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/um5LJhvVVUWBKs0jcUCAaNHHRXt.jpg" ,Ele é Um Gato! (2023)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532678.mp4
+#EXTINF:-1 tvg-name="Eiffel (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JrT2FAv4WMZEPXFR9wXWqsyAvl.jpg" ,Eiffel (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532677.mp4
+#EXTINF:-1 tvg-name="Do Que as Mulheres Gostam (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xj2uHWw6T90M2Ep8ZtTtVC0LcG0.jpg" ,Do Que as Mulheres Gostam (2000)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532676.mp4
+#EXTINF:-1 tvg-name="Do Outro Lado do Rio, Entre as Árvores (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szfD8jgg80hUtZ2Jf6j1zuhdLkQ.jpg" , Entre as Árvores (2023)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532675.mp4
+#EXTINF:-1 tvg-name="Doce Novembro (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjtCKVNtywqEHLQMKz7SeFJGSQ0.jpg" ,Doce Novembro (2001)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532674.mp4
+#EXTINF:-1 tvg-name="E Se... Você Tivesse uma Segunda Chance? (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrSsFbTxuMcdFcfOWJqcJBvdyT0.jpg" ,E Se... Você Tivesse uma Segunda Chance? (2010)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532673. Você Tivesse uma Segunda Chance
+#EXTINF:-1 tvg-name="Dia de Casamento 5 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGjM3vMDq4Vy1R5ODckqLomR9YW.jpg" ,Dia de Casamento 5 (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532657.mp4
+#EXTINF:-1 tvg-name="Diário de uma Paixão (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A07izLVyZCrmq0HTvFg6qdqiZE5.jpg" ,Diário de uma Paixão (2004)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532656.mp4
+#EXTINF:-1 tvg-name="Dirty Love: Dando o Troco (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAW7t4lBv8qOgvHfzmgJ3HfJXqc.jpg" ,Dirty Love: Dando o Troco (2005)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532655.mp4
+#EXTINF:-1 tvg-name="Diga-me Quando (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brrueWMNGQjz2sFXS2RXPa2frUf.jpg" ,Diga-me Quando (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532654.mp4
+#EXTINF:-1 tvg-name="(Des)encontro Perfeito (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMyCHKgaTDub1UgzQOZ6r60YdcO.jpg" ,(Des)encontro Perfeito (2015)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532653.mp4
+#EXTINF:-1 tvg-name="Dia de Casamento 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lr1dCC05y3sqpQzW9yqfkZcW4l9.jpg" ,Dia de Casamento 2 (2017)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532652.mp4
+#EXTINF:-1 tvg-name="Dia de Casamento 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lr1dCC05y3sqpQzW9yqfkZcW4l9.jpg" ,Dia de Casamento 1
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532651.mp4
+#EXTINF:-1 tvg-name="Dia de Casamento 4 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Z41716N4nvRsvtYvINkFpgdijg.jpg" ,Dia de Casamento 4 (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532650.mp4
+#EXTINF:-1 tvg-name="Dia de Casamento 3 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slFfd1TXsNuf8wuSCsmPGImS2jw.jpg" ,Dia de Casamento 3 (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532649.mp4
+#EXTINF:-1 tvg-name="Deixe a Neve Cair (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cK25zywRZwSxCSzGZaPTJ7ZhC1m.jpg" ,Deixe a Neve Cair (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532625.mp4
+#EXTINF:-1 tvg-name="Irmãos Urso: Uma Viagem de Volta para Casa (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mv8ryYC9KI9Fz9gbmvKA3QfbQHQ.jpg" ,Irmãos Urso: Uma Viagem de Volta para Casa (2013)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532624.mp4
+#EXTINF:-1 tvg-name="Mais Que Demais Pra Mim (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRJ7L5huiphoISr53arpwkHzdvR.jpg" ,Mais Que Demais Pra Mim (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532623.mp4
+#EXTINF:-1 tvg-name="De Carona para o Amor (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAlNDE3bdS3CmpdO7UoJr9y7ScE.jpg" ,De Carona para o Amor (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532622.mp4
+#EXTINF:-1 tvg-name="De Canção em Canção (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CAqrbSetjd5QYw3QCJrkzNQgIU.jpg" ,De Canção em Canção (2017)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532621.mp4
+#EXTINF:-1 tvg-name="Corações Apaixonados (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIDayrHsVptwU8nHpWef0h2MKn7.jpg" ,Corações Apaixonados (1998)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532620.mkv
+#EXTINF:-1 tvg-name="Crush à Altura 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isORwC0r1F3NYwFoBS4P6KerHgD.jpg" ,Crush à Altura 2 (2022)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532619.mp4
+#EXTINF:-1 tvg-name="Curiosa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/217eCKJQBzk4FIcqWgP1sT3Gzxt.jpg" ,Curiosa (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532618.mp4
+#EXTINF:-1 tvg-name="Crush à Altura (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovcUbuw5XYC10EhU17RLpP93dgv.jpg" ,Crush à Altura (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532617.mp4
+#EXTINF:-1 tvg-name="Crush: Amor Colorido (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yET3VJN40au485aOUbmJ1cUuaps.jpg" ,Crush: Amor Colorido (2022)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532616.mp4
+#EXTINF:-1 tvg-name="Coração de Corredor (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNWynLENgP58KdIe8CCwXfNnPgU.jpg" ,Coração de Corredor (2017)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532590.mp4
+#EXTINF:-1 tvg-name="Como Eu Era Antes de Você (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1a60KPNTC4JKYphNQveAB37Lyif.jpg" ,Como Eu Era Antes de Você (2016)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532589.mp4
+#EXTINF:-1 tvg-name="Convidado Vitalício (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbNcScxV33nMrc0MprmvOpk4WsC.jpg" ,Convidado Vitalício (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532588.mp4
+#EXTINF:-1 tvg-name="Como Se Fosse a Primeira Vez (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbfB2yzfGIPKBDDFize1Y5acqjm.jpg" ,Como Se Fosse a Primeira Vez (2004)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532587.mp4
+#EXTINF:-1 tvg-name="Como Não Perder Essa Mulher (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dttvJwD6ay2JXbz2V3BmYkHJrn.jpg" ,Como Não Perder Essa Mulher (2013)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532586.mp4
+#EXTINF:-1 tvg-name="Castelos de Gelo (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTKPbJ1mFw25H91nZWdM7kFHMUz.jpg" ,Castelos de Gelo (2010)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532585.mp4
+#EXTINF:-1 tvg-name="Casa Comigo? (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsKP38fESXwpr8XbEuhnzJc4Yqp.jpg" ,Casa Comigo? (2010)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532584.mp4
+#EXTINF:-1 tvg-name="Cidades de Papel (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4th6QFCdko42nuAVK9yu2d9ikFQ.jpg" ,Cidades de Papel (2015)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532583.mp4
+#EXTINF:-1 tvg-name="Cinderela (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DsfRsCxrhkHQHGLeY9m8oi9q46.jpg" ,Cinderela (2015)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532582.mp4
+#EXTINF:-1 tvg-name="Casal Improvável (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wt050OjvLsiP2pS39CvsKuNLwcp.jpg" ,Casal Improvável (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532581.mp4
+#EXTINF:-1 tvg-name="Até Que a Vida Nos Separe (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9geEbp4y7wUWM6oHzqppRnghCAb.jpg" ,Até Que a Vida Nos Separe (2023)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532553.mp4
+#EXTINF:-1 tvg-name="Carol (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddjhWoNkwfndMZDjtbniBINO8HN.jpg" ,Carol (2015)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532552.mp4
+#EXTINF:-1 tvg-name="Beijar e Chorar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fH0UfEKOoeQsC8AQDHvxz9BmHco.jpg" ,Beijar e Chorar (2017)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532551.mp4
+#EXTINF:-1 tvg-name="Cartas para Julieta (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcrkatLWdrI0662uKo7LTyLEY38.jpg" ,Cartas para Julieta (2010)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532550.mp4
+#EXTINF:-1 tvg-name="Cadeado do Amor (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLmGnoDaglH1p4MP6iDFI8Mydo9.jpg" ,Cadeado do Amor (2017)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532549.mp4
+#EXTINF:-1 tvg-name="Brooklin: Um Amor Sem Fronteiras (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg" ,Brooklin: Um Amor Sem Fronteiras (2015)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532548.mp4
+#EXTINF:-1 tvg-name="Bridget Jones: No Limite da Razão (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fp79icDwjqr3ejx7ACfApXEVwiV.jpg" ,Bridget Jones: No Limite da Razão (2004)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532547.mp4
+#EXTINF:-1 tvg-name="Bonequinha de Luxo (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBdn6jkwOKnJ02W8pdljYyCkYch.jpg" ,Bonequinha de Luxo (1961)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532546.mp4
+#EXTINF:-1 tvg-name="As Pontes de Madison (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwmVAGodqvd3g5V3qIjI8Jw7ltr.jpg" ,As Pontes de Madison (1995)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532545.mp4
+#EXTINF:-1 tvg-name="Atlantique (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6re5NBRLemS5Ysvc60mGUGHz8C6.jpg" ,Atlantique (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532544.mp4
+#EXTINF:-1 tvg-name="As Ondas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXHO1tPfv5rXQQOfu9Ji6EcAFbE.jpg" ,As Ondas (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532514.mp4
+#EXTINF:-1 tvg-name="As Leis da Termodinâmica (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Y2v1K21tL13hDS4PGovQ8t1ngS.jpg" ,As Leis da Termodinâmica (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532513.mp4
+#EXTINF:-1 tvg-name="As Minas do Rei Salomão (1950)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrRrzgfXsUWLStS23den2n0mtKf.jpg" ,As Minas do Rei Salomão (1950)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532512.mp4
+#EXTINF:-1 tvg-name="As Cores do Amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKkfxvjnZstMmQCbolFDWREhxCX.jpg" ,As Cores do Amor (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532511.mp4
+#EXTINF:-1 tvg-name="As Aventuras Sexuais de um Casal em Crise (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCJ2QZumd2M7umHuHGAXAFifQs9.jpg" ,As Aventuras Sexuais de um Casal em Crise (2023)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532510.mp4
+#EXTINF:-1 tvg-name="Antes do Amanhecer (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7778ruavZqENUIJQAeOvuPBN63.jpg" ,Antes do Amanhecer (1995)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532509.mp4
+#EXTINF:-1 tvg-name="Amor à Segunda Vista (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ilGwKirJdmlWyzCv6P7wxgh6Za.jpg" ,Amor à Segunda Vista (2002)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532508.mp4
+#EXTINF:-1 tvg-name="Arco-Íris do Amor (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFqjUoMUBD2IGEi6Sh4Wzn9ygQH.jpg" ,Arco-Íris do Amor (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532507.mp4
+#EXTINF:-1 tvg-name="Antes que Termine o Dia (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRduoGq6vIeNQjsxc60OmF3gqip.jpg" ,Antes que Termine o Dia (2004)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532506.mp4
+#EXTINF:-1 tvg-name="Antes da Meia-Noite (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo5hzbw0xofhFsBpnDWlnniCbFl.jpg" ,Antes da Meia-Noite (2013)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532505.mp4
+#EXTINF:-1 tvg-name="Amor de Redenção (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5qpPwlaAbOH2teRowl9ThzEF2r.jpg" ,Amor de Redenção (2022)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532476.mp4
+#EXTINF:-1 tvg-name="Amor nas Alturas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tylTgpAZuptwAAlAxxuKpwDsxF7.jpg" ,Amor nas Alturas (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532475.mp4
+#EXTINF:-1 tvg-name="Amor em Obras (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQLiCMQFC9pK0b5g9Qwnkl4D9yh.jpg" ,Amor em Obras (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532474.mp4
+#EXTINF:-1 tvg-name="Amor de Páscoa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11GKNEAvWYQYMFSZmj5FWFOA8jm.jpg" ,Amor de Páscoa (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532473.mp4
+#EXTINF:-1 tvg-name="Amor com Data Marcada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsuhSOLAaEoZGR4paPFgxE29jIn.jpg" ,Amor com Data Marcada (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532472.mp4
+#EXTINF:-1 tvg-name="Amor Sem Escalas (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lWRgmDadsUOmrKSvxhkpynRrwK.jpg" ,Amor Sem Escalas (2009)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532471.mp4
+#EXTINF:-1 tvg-name="Amor Sem Querer (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOTtUDTGHPJfV1wSLRSJkSnaxrq.jpg" ,Amor Sem Querer (2017)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532470.mp4
+#EXTINF:-1 tvg-name="Amor Pleno (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7ARBZ4mDpTLIkUzvAnroz790vE.jpg" ,Amor Pleno (2013)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532469.mp4
+#EXTINF:-1 tvg-name="Amor a Três (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swlcLL0ufIoNUFYnTBMONifxKGG.jpg" ,Amor a Três (2000)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532468.mp4
+#EXTINF:-1 tvg-name="Amor Sem Fim (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZf43CB2U1R3iBj0EhwqcBvYtKC.jpg" ,Amor Sem Fim (1981)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532467.mp4
+#EXTINF:-1 tvg-name="Amor em Middleton (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLzcZ7l7cozHVVgGnhKCbQp6syc.jpg" ,Amor em Middleton (2013)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532431.mp4
+#EXTINF:-1 tvg-name="Amor Garantido (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgoAd6HFGQ4gHBABWXL17mBwte2.jpg" ,Amor Garantido (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532430.mp4
+#EXTINF:-1 tvg-name="Amor e Amizade (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35AS4tg7EONNj5vuw4pfZjtlXa6.jpg" ,Amor e Amizade (2016)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532429.mp4
+#EXTINF:-1 tvg-name="Amizade Colorida (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SMQJit9clFpQJJHFp41LYJjBMq.jpg" ,Amizade Colorida (2011)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532428.mp4
+#EXTINF:-1 tvg-name="Amigo Imaginário (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRCzn72buqA6aXG16v1HK0wUHkX.jpg" ,Amigo Imaginário (2012)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532427.mp4
+#EXTINF:-1 tvg-name="Caffè amaro (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oi8C2AnfJQji6fm6pRxdyQrYfAQ.jpg" ,Caffè amaro (2017)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532426.mp4
+#EXTINF:-1 tvg-name="Alice Júnior (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJWlPBsPIiHKRyHD6SiCNmzlmUp.jpg" ,Alice Júnior (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532425.mp4
+#EXTINF:-1 tvg-name="Alice Júnior (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJWlPBsPIiHKRyHD6SiCNmzlmUp.jpg" ,Alice Júnior (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532424.mp4
+#EXTINF:-1 tvg-name="After: Depois do Desencontro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/us14PtA89IjtR1JOdDamamPth7e.jpg" ,After: Depois do Desencontro (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532423.mp4
+#EXTINF:-1 tvg-name="Alguém Avisa? (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neE6fqGiQcp6z4qNlFtlP0z76c0.jpg" ,Alguém Avisa? (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532422.mp4
+#EXTINF:-1 tvg-name="A Estranheza de Amar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRY3wezARwCgvY3zbsDX8uYGr1e.jpg" ,A Estranheza de Amar (2023)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532352.mp4
+#EXTINF:-1 tvg-name="After (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg" ,After (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532351.mp4
+#EXTINF:-1 tvg-name="Afinado no Amor (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UNTUVZjCDb3LB8yojdwQZxu50u.jpg" ,Afinado no Amor (1998)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532350.mp4
+#EXTINF:-1 tvg-name="Adam (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSN5ec7llAzv0Up7wAQ9qeOM0lS.jpg" ,Adam (2009)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532349.mp4
+#EXTINF:-1 tvg-name="Acertando o Passo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpfRGpgUsHlYX0QgJE1kUShorIH.jpg" ,Acertando o Passo (2017)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532348.mp4
+#EXTINF:-1 tvg-name="A Última Carta de Amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faiC6bHYQEOzXKw20LNthaHurx0.jpg" ,A Última Carta de Amor (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532347.mp4
+#EXTINF:-1 tvg-name="A Vida Pode Mudar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1F6VdHC16zwEJoEWx2omJ0fzgmA.jpg" ,A Vida Pode Mudar (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532346.mp4
+#EXTINF:-1 tvg-name="A Vida Invisível (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5Ia6cQXeJRjnHMBmZx0JF9JSwc.jpg" ,A Vida Invisível (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532345.mp4
+#EXTINF:-1 tvg-name="A Verdade Nua e Crua (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTlQRJfm1si2fteoQa4z6o7SS6v.jpg" ,A Verdade Nua e Crua (2009)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532344.mp4
+#EXTINF:-1 tvg-name="A Um Passo da Eternidade (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6QXGhmrBskJav7KzGhwlqyx0t3.jpg" ,A Um Passo da Eternidade (1953)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532343.mp4
+#EXTINF:-1 tvg-name="A Teacher (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqARjEtNutJOTMnLhB4HtLYT4Vb.jpg" ,A Teacher (2013)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532342.mp4
+#EXTINF:-1 tvg-name="A Teacher (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqARjEtNutJOTMnLhB4HtLYT4Vb.jpg" ,A Teacher (2013)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532341.mp4
+#EXTINF:-1 tvg-name="A Sogra (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tII9VsurXwuz5L1xczH09XAwng3.jpg" ,A Sogra (2005)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532340.mp4
+#EXTINF:-1 tvg-name="A Princesa e a Plebeia: As Vilãs Também Amam (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNOvGQ3rMPtHqQxXqKvHlQCwS3E.jpg" ,A Princesa e a Plebeia: As Vilãs Também Amam (2021)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532339.mp4
+#EXTINF:-1 tvg-name="A Proposta (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIhags0jXoe78JJjCDZbByciesQ.jpg" ,A Proposta (2009)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532338.mp4
+#EXTINF:-1 tvg-name="A Princesa e a Plebeia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpIZEkNudLQrQO7hwDNTqQphe2l.jpg" ,A Princesa e a Plebeia (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532337.mp4
+#EXTINF:-1 tvg-name="A Outra Mulher (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70b4559iwOnsf6Ovs5DAQWXiXYF.jpg" ,A Outra Mulher (2018)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532336.mp4
+#EXTINF:-1 tvg-name="A Pequena Morte (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH15YYgBT9ZX37nFkSQ0OM8qjCE.jpg" ,A Pequena Morte (2014)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532335.mp4
+#EXTINF:-1 tvg-name="A Menina do Chalé (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJMPo5YYIDToguMtjGs7VTFYFG.jpg" ,A Menina do Chalé (2011)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532334.mp4
+#EXTINF:-1 tvg-name="A Luta pela Esperança (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rztLamF4cfaPxvIzqllaxe9e3S.jpg" ,A Luta pela Esperança (2005)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532333.mp4
+#EXTINF:-1 tvg-name="A Lagoa Azul (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44NpOB3zKwSKzu6mEDQY235rRxP.jpg" ,A Lagoa Azul (1980)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532332.mp4
+#EXTINF:-1 tvg-name="A Influencer Divina (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saP1nYtwwp9umyHeUUSKNyuBLbj.jpg" ,A Influencer Divina (2023)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532331.mp4
+#EXTINF:-1 tvg-name="A Guide to Second Date Sex (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ipvnH9qzMaOtRPOldPVt8B58Ya.jpg" ,A Guide to Second Date Sex (2019)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532330.mp4
+#EXTINF:-1 tvg-name="A Garota Perfeita (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXVvLAG6APpxJhBC2DzQ3mNG7Vx.jpg" ,A Garota Perfeita (2017)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532329.mp4
+#EXTINF:-1 tvg-name="A Garota Invisível (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msJs7UwmWUd7iql36JoN4Rp0hoK.jpg" ,A Garota Invisível (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532328.mp4
+#EXTINF:-1 tvg-name="A Dama de Vermelho (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFNjhNKZQ80STYLI51GCs06uk2.jpg" ,A Dama de Vermelho (1984)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532327.mp4
+#EXTINF:-1 tvg-name="A Escolha (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waeKG2ZoXh2FcxP2JbyzlG7LQ0k.jpg" ,A Escolha (2016)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532326.mp4
+#EXTINF:-1 tvg-name="A Culpa é das Estrelas (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lW1HA1JqXxKp1x5eSzEqTNxfIgA.jpg" ,A Culpa é das Estrelas (2014)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532325.mp4
+#EXTINF:-1 tvg-name="365 Dias (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3b1uR8Jggt1hWgtBbp42Mt3cwWe.jpg" ,365 Dias (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532324.mp4
+#EXTINF:-1 tvg-name="A Casa do Lago (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1zBa52Qmc7TH00JthRr5WnDJIT.jpg" ,A Casa do Lago (2006)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532323.mp4
+#EXTINF:-1 tvg-name="A casa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTH1GW8C1OwEr2UAzgLvl5N7RAN.jpg" ,A casa (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532322.mp4
+#EXTINF:-1 tvg-name="10 Coisas Que Eu Odeio em Você (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSr6OheCylo2rlt4Ko9OWwcmu3n.jpg" ,10 Coisas Que Eu Odeio em Você (1999)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532321.mp4
+#EXTINF:-1 tvg-name="A Batida Perfeita (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmBTeTQFVLrhqErx8Nen0QiL3Mm.jpg" ,A Batida Perfeita (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532320.mp4
+#EXTINF:-1 tvg-name="2 Corações (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpujQ6Wd4UuAykFpgoICJVJ9s1f.jpg" ,2 Corações (2020)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532319.mp4
+#EXTINF:-1 tvg-name="(500) Dias com Ela (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkspryd5Ve93npEge3OFYCRgYwY.jpg" ,(500) Dias com Ela (2009)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532318.mp4
+#EXTINF:-1 tvg-name="Uma Canção (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7og5BOEQjLEzQfsEjt4Q22hdy1S.jpg" ,Uma Canção (2014)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532317.mp4
+#EXTINF:-1 tvg-name="10 Regras Para Salvar um Casamento (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcmoIeno4fh6QnNmg93TVNq8aj.jpg" ,10 Regras Para Salvar um Casamento (2023)
+http://urlapghdtoumix.maistv.xyz:80/movie/457882168/568719290/4532316.mp4
