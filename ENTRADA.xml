@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>[B][COLOR red]Infinity[/COLOR][COLOR white]Play[/COLOR] [COLOR yellow]BEM VINDOS AO INFINITYPLAY[/COLOR] [B][COLOR red]Infinity[/COLOR][COLOR white]Play[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/example1.jpg</thumbnail>
+<fanart>https://i.imgur.com/example1_fanart.jpg</fanart>
+<info>[COLOR red]Bem vindos ao InfinityPlay[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/INFINITYPLAY/main/FILMES.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR red]Infinity[/COLOR][COLOR white]Play[/COLOR] [COLOR yellow]FILMES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/example2.jpg</thumbnail>
+<fanart>https://i.imgur.com/example2_fanart.jpg</fanart>
+<info>[COLOR yellow]Seção de Filmes do InfinityPlay[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/INFINITYPLAY/main/FILMES.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR red]Infinity[/COLOR][COLOR white]Play[/COLOR] [COLOR yellow]SÉRIES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/example3.jpg</thumbnail>
+<fanart>https://i.imgur.com/example3_fanart.jpg</fanart>
+<info>[COLOR yellow]Seção de Séries do InfinityPlay[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/INFINITYPLAY/main/SERIES.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR red]Infinity[/COLOR][COLOR white]Play[/COLOR] [COLOR yellow]TV AO VIVO[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/example4.jpg</thumbnail>
+<fanart>https://i.imgur.com/example4_fanart.jpg</fanart>
+<info>[COLOR yellow]Canais de TV ao Vivo[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/INFINITYPLAY/main/TVVIVO.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR red]Infinity[/COLOR][COLOR white]Play[/COLOR] [COLOR yellow]ANIMES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/example5.jpg</thumbnail>
+<fanart>https://i.imgur.com/example5_fanart.jpg</fanart>
+<info>[COLOR yellow]Seção de Animes do InfinityPlay[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/INFINITYPLAY/main/ANIMES.xml</externallink>
+</channel>
+
+</channels>
