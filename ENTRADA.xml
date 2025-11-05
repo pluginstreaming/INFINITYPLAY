@@ -31,7 +31,7 @@
 <thumbnail>https://i.imgur.com/example4.jpg</thumbnail>
 <fanart>https://i.imgur.com/example4_fanart.jpg</fanart>
 <info>[COLOR yellow]Canais de TV ao Vivo[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/pluginstreaming/INFINITYPLAY/main/TVVIVO.xml</externallink>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/INFINITYPLAY/refs/heads/main/CANAIS.xml</externallink>
 </channel>
 
 <channel>
