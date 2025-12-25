@@ -3,537 +3,185 @@
 
 
 
-#EXTINF:-1 tvg-name="Bob Zoom" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Bob Zoom
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/348651
-#EXTINF:-1 tvg-name="Marvel Desenho" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Marvel Desenho
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/310109
-#EXTINF:-1 tvg-name="Mini Filmes" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Mini Filmes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/309524
-#EXTINF:-1 tvg-name="A turma do charlie brown e snoopy" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A turma do charlie brown e snoopy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/309523
-#EXTINF:-1 tvg-name="A turma do abobrinha" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A turma do abobrinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/309522
-#EXTINF:-1 tvg-name="A turma do archie" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A turma do archie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/309521
-#EXTINF:-1 tvg-name="A pequena sereia" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A pequena sereia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/309520
-#EXTINF:-1 tvg-name="A mumia" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A mumia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/309519
-#EXTINF:-1 tvg-name="A mansao foster para amigos imaginarios" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A mansao foster para amigos imaginarios
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/309518
-#EXTINF:-1 tvg-name="A guarda do leao" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A guarda do leao
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/309517
-#EXTINF:-1 tvg-name="A formiga e o tamandua" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A formiga e o tamandua
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/309516
-#EXTINF:-1 tvg-name="A feiticeira faceira" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A feiticeira faceira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/309515
-#EXTINF:-1 tvg-name="A corrida especial do ze colmeia" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A corrida especial do ze colmeia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/309514
-#EXTINF:-1 tvg-name="A coisa" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A coisa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/309513
-#EXTINF:-1 tvg-name="A cobrinha azul" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A cobrinha azul
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/309512
-#EXTINF:-1 tvg-name="A cegonha da perna fina" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A cegonha da perna fina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/309511
-#EXTINF:-1 tvg-name="A bruxinha sabrina" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A bruxinha sabrina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/309510
-#EXTINF:-1 tvg-name="Tres Espias Demais" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Tres Espias Demais
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/262914
-#EXTINF:-1 tvg-name="O xodo da vovo" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O xodo da vovo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/259779
-#EXTINF:-1 tvg-name="Dora a Aventureira" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Dora a Aventureira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/258751
-#EXTINF:-1 tvg-name="As Aventuras de Piggley Winks" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",As Aventuras de Piggley Winks
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/258750
-#EXTINF:-1 tvg-name="Mortal Kombat" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Mortal Kombat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/257932
-#EXTINF:-1 tvg-name="Medabots" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Medabots
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/257929
-#EXTINF:-1 tvg-name="Luluzinha" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Luluzinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/257928
-#EXTINF:-1 tvg-name="Jack-Chan" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Jack-Chan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/257924
-#EXTINF:-1 tvg-name="Incrível Hulk" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Incrível Hulk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/257916
-#EXTINF:-1 tvg-name="MIB Homens de Preto" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",MIB Homens de Preto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/257872
-#EXTINF:-1 tvg-name="Homem de Ferro" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Homem de Ferro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/257579
-#EXTINF:-1 tvg-name="Histórias Disney" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Histórias Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/257562
-#EXTINF:-1 tvg-name="Guardioes da Galaxia" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Guardioes da Galaxia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/257560
-#EXTINF:-1 tvg-name="Formiga Atomica" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Formiga Atomica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/257472
-#EXTINF:-1 tvg-name="Chaves Desenho" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Chaves Desenho
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/257471
-#EXTINF:-1 tvg-name="Caverna do Dragao" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Caverna do Dragao
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/257469
-#EXTINF:-1 tvg-name="Cao Coragem" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Cao Coragem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/257468
-#EXTINF:-1 tvg-name="BEN 10" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",BEN 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/257467
-#EXTINF:-1 tvg-name="As Meninas Superpoderosas" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",As Meninas Superpoderosas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/257301
-#EXTINF:-1 tvg-name="Aladdin" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Aladdin
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/257300
-#EXTINF:-1 tvg-name="He-Man" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",He-Man
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/256660
-#EXTINF:-1 tvg-name="O inspetor" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O inspetor
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/254388
-#EXTINF:-1 tvg-name="Maguila o Gorila" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Maguila o Gorila
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/254387
-#EXTINF:-1 tvg-name="A Familia Draculá" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A Familia Draculá
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/254345
-#EXTINF:-1 tvg-name="Patrulha Canina" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Patrulha Canina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/250794
-#EXTINF:-1 tvg-name="Bob Esponja" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Bob Esponja
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/250606
-#EXTINF:-1 tvg-name="Galinha Pintadinha" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Galinha Pintadinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/250605
-#EXTINF:-1 tvg-name="Peppa Pig" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Peppa Pig
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/250604
-#EXTINF:-1 tvg-name="Matracatrica e Fofoquinha" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Matracatrica e Fofoquinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/226836
-#EXTINF:-1 tvg-name="As terriveis aventuras de billy e mandy" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",As terriveis aventuras de billy e mandy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/220094
-#EXTINF:-1 tvg-name="Capitão Caverna" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Capitão Caverna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/220093
-#EXTINF:-1 tvg-name="Jaspion" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Jaspion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/217491
-#EXTINF:-1 tvg-name="3 palavrinhas" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",3 palavrinhas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/217349
-#EXTINF:-1 tvg-name="101 Dalmatas" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",101 Dalmatas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/98156
-#EXTINF:-1 tvg-name="A cegonha perna fina" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A cegonha perna fina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/100437
-#EXTINF:-1 tvg-name="A nossa turma" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A nossa turma
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/106545
-#EXTINF:-1 tvg-name="A Nova Escola do Imperador" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A Nova Escola do Imperador
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104567
-#EXTINF:-1 tvg-name="A pantera cor de rosa" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A pantera cor de rosa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104753
-#EXTINF:-1 tvg-name="A turma do pateta" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A turma do pateta
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109168
-#EXTINF:-1 tvg-name="A Turma do Pato Bill" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A Turma do Pato Bill
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104313
-#EXTINF:-1 tvg-name="A vaca e o frango" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A vaca e o frango
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/106546
-#EXTINF:-1 tvg-name="A Vida e as Aventuras de Juniper Lee" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A Vida e as Aventuras de Juniper Lee
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109174
-#EXTINF:-1 tvg-name="A vida moderna de rocko" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A vida moderna de rocko
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112535
-#EXTINF:-1 tvg-name="American Dad" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",American Dad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/81948
-#EXTINF:-1 tvg-name="Andy Panda" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Andy Panda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/103993
-#EXTINF:-1 tvg-name="Animaniacs" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Animaniacs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/110869
-#EXTINF:-1 tvg-name="Apenas Um Show" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Apenas Um Show
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/81704
-#EXTINF:-1 tvg-name="As aventuras de tintim" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",As aventuras de tintim
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112525
-#EXTINF:-1 tvg-name="As tartarugas ninja" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",As tartarugas ninja
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/107072
-#EXTINF:-1 tvg-name="As trapalhadas de flapjack" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",As trapalhadas de flapjack
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/111236
-#EXTINF:-1 tvg-name="Baby Looney Toones" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Baby Looney Toones
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/108553
-#EXTINF:-1 tvg-name="Backyardigans" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Backyardigans
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/113544
-#EXTINF:-1 tvg-name="Barney e Seus Amigos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Barney e Seus Amigos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112532
-#EXTINF:-1 tvg-name="Beavis And Butt Head" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Beavis And Butt Head
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104311
-#EXTINF:-1 tvg-name="BEN 10 2006 - 2008" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",BEN 10 2006 - 2008
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/113550
-#EXTINF:-1 tvg-name="Ben 10 forca alienigena 2008 - 2010" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Ben 10 forca alienigena 2008 - 2010
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112267
-#EXTINF:-1 tvg-name="Ben 10 omniverse 2012 - 2014" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Ben 10 omniverse 2012 - 2014
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/113859
-#EXTINF:-1 tvg-name="Ben 10 supremacia alienigena 2010 - 2012" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Ben 10 supremacia alienigena 2010 - 2012
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/110267
-#EXTINF:-1 tvg-name="Betty Atomica" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Betty Atomica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/107089
-#EXTINF:-1 tvg-name="Beyblade" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Beyblade
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/113545
-#EXTINF:-1 tvg-name="Beyblade G Revolution 2003" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Beyblade G Revolution 2003
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104754
-#EXTINF:-1 tvg-name="Beyblade V Force 2002" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Beyblade V Force 2002
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104751
-#EXTINF:-1 tvg-name="Boneco Atomico" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Boneco Atomico
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109371
-#EXTINF:-1 tvg-name="Buzz Lightyear do Comando" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Buzz Lightyear do Comando
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109370
-#EXTINF:-1 tvg-name="Cadillacs e Dinossauros" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Cadillacs e Dinossauros
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/106666
-#EXTINF:-1 tvg-name="Caezinhos do Canil" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Caezinhos do Canil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/105177
-#EXTINF:-1 tvg-name="Campeões do Sendokai" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Campeões do Sendokai
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/111620
-#EXTINF:-1 tvg-name="Capitão Planeta" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Capitão Planeta
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112075
-#EXTINF:-1 tvg-name="Carangos e Motocas 1974" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Carangos e Motocas 1974
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104565
-#EXTINF:-1 tvg-name="Carmen Sandiego" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Carmen Sandiego
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/107897
-#EXTINF:-1 tvg-name="Charlie Chan" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Charlie Chan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/103989
-#EXTINF:-1 tvg-name="Chaves Animado" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Chaves Animado
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/81953
-#EXTINF:-1 tvg-name="Clarencio o Otimista" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Clarencio o Otimista
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/107083
-#EXTINF:-1 tvg-name="Clifford Meu Gigante Cao Vermelho" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Clifford Meu Gigante Cao Vermelho
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112076
-#EXTINF:-1 tvg-name="Colecao Bob Zoom" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Colecao Bob Zoom
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104566
-#EXTINF:-1 tvg-name="Corrida Espacial" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Corrida Espacial
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104318
-#EXTINF:-1 tvg-name="Corrida Maluca" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Corrida Maluca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109367
-#EXTINF:-1 tvg-name="Danny Phantom 2004 - 2007" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Danny Phantom 2004 - 2007
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/113850
-#EXTINF:-1 tvg-name="De volta para o futuro" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",De volta para o futuro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109774
-#EXTINF:-1 tvg-name="Deby e Loid" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Deby e Loid
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/106664
-#EXTINF:-1 tvg-name="Delvin o Motoqueiro" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Delvin o Motoqueiro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/103999
-#EXTINF:-1 tvg-name="Denis o Pimentinha" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Denis o Pimentinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109776
-#EXTINF:-1 tvg-name="Desenhos Biblicos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Desenhos Biblicos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109380
-#EXTINF:-1 tvg-name="Dick Vigarista e Muttley - Máquinas Voadoras" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Dick Vigarista e Muttley - Máquinas Voadoras
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104572
-#EXTINF:-1 tvg-name="Dino Boy e o Vale Perdido" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Dino Boy e o Vale Perdido
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/107081
-#EXTINF:-1 tvg-name="Dinossauro Rei" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Dinossauro Rei
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/113551
-#EXTINF:-1 tvg-name="Doug" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Doug
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112791
-#EXTINF:-1 tvg-name="Duck Dodgers" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Duck Dodgers
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/107895
-#EXTINF:-1 tvg-name="Duck Tales" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Duck Tales
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/111615
-#EXTINF:-1 tvg-name="Dudley do Right" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Dudley do Right
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/107070
-#EXTINF:-1 tvg-name="EEK! THE CAT" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",EEK! THE CAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104569
-#EXTINF:-1 tvg-name="Estados Unidos de Archies" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Estados Unidos de Archies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/103991
-#EXTINF:-1 tvg-name="Eu sou o maximo" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Eu sou o maximo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104568
-#EXTINF:-1 tvg-name="Falcao Azul e o Bionicao" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Falcao Azul e o Bionicao
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/111231
-#EXTINF:-1 tvg-name="Family Guy" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Family Guy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/81513
-#EXTINF:-1 tvg-name="Fantasminha Legal" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Fantasminha Legal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112055
-#EXTINF:-1 tvg-name="Fantasmino o Fantasma Galopante" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Fantasmino o Fantasma Galopante
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104320
-#EXTINF:-1 tvg-name="Frango Kung Fu" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Frango Kung Fu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112276
-#EXTINF:-1 tvg-name="Futurama" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Futurama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/81882
-#EXTINF:-1 tvg-name="Garfield e Seus Amigos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Garfield e Seus Amigos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/107066
-#EXTINF:-1 tvg-name="Gasparzinho e Amigos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Gasparzinho e Amigos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/99756
-#EXTINF:-1 tvg-name="Gato Felix" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Gato Felix
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/107060
-#EXTINF:-1 tvg-name="Go diego go" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Go diego go
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/113854
-#EXTINF:-1 tvg-name="Guerreiros Miticos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Guerreiros Miticos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112079
-#EXTINF:-1 tvg-name="Herculoides 1967" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Herculoides 1967
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109781
-#EXTINF:-1 tvg-name="Hey Arnold S01" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Hey Arnold S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112058
-#EXTINF:-1 tvg-name="Hey Arnold S02" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Hey Arnold S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109771
-#EXTINF:-1 tvg-name="Hey Arnold S03" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Hey Arnold S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109778
-#EXTINF:-1 tvg-name="Hey Arnold S04" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Hey Arnold S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112053
-#EXTINF:-1 tvg-name="Hey Arnold S05" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Hey Arnold S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/108798
-#EXTINF:-1 tvg-name="Hickory Dickory e Doc" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Hickory Dickory e Doc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/103992
-#EXTINF:-1 tvg-name="Hilda" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Hilda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109773
-#EXTINF:-1 tvg-name="Histórias Animadas do Novo Testamento" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Histórias Animadas do Novo Testamento
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112795
-#EXTINF:-1 tvg-name="Histórias Animadas do Velho Testamento" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Histórias Animadas do Velho Testamento
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109373
-#EXTINF:-1 tvg-name="Ho Ho Limpicos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Ho Ho Limpicos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112078
-#EXTINF:-1 tvg-name="Hot Wheels Battle Force 5" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Hot Wheels Battle Force 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109777
-#EXTINF:-1 tvg-name="Hulk" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Hulk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/110875
-#EXTINF:-1 tvg-name="Irmão do Jorel" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Irmão do Jorel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/102577
-#EXTINF:-1 tvg-name="Johnny Bravo" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Johnny Bravo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/111622
-#EXTINF:-1 tvg-name="Jubei Chan The Ninja Girl" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Jubei Chan The Ninja Girl
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104000
-#EXTINF:-1 tvg-name="Kick Buttowski" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Kick Buttowski
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/106548
-#EXTINF:-1 tvg-name="Knd a Turma do Bairro" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Knd a Turma do Bairro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/105174
-#EXTINF:-1 tvg-id="LiveLadyBugECatNoir" tvg-name="Ladybug e Cat" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Ladybug e Cat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/77843
-#EXTINF:-1 tvg-name="Larvas" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Larvas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109769
-#EXTINF:-1 tvg-name="Lazy Town" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Lazy Town
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/113548
-#EXTINF:-1 tvg-name="Liga da Justiça" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Liga da Justiça
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/81812
-#EXTINF:-1 tvg-name="Liga da Justiça Sem Limites" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Liga da Justiça Sem Limites
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/81813
-#EXTINF:-1 tvg-name="Ligeirinho" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Ligeirinho
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104312
-#EXTINF:-1 tvg-name="Lilo e Stitch" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Lilo e Stitch
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/113546
-#EXTINF:-1 tvg-name="Lorde Gato e a Turma do Abobrinha" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Lorde Gato e a Turma do Abobrinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/105175
-#EXTINF:-1 tvg-name="Lula Lele" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Lula Lele
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104564
-#EXTINF:-1 tvg-name="Mãe e pai curta metragem" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Mãe e pai curta metragem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/103877
-#EXTINF:-1 tvg-name="Manda Chuva" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Manda Chuva
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/110872
-#EXTINF:-1 tvg-name="Marsupilami" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Marsupilami
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112534
-#EXTINF:-1 tvg-id="LiveMashaeUrso" tvg-name="Masha e o Urso" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Masha e o Urso
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/77145
-#EXTINF:-1 tvg-name="Megaman" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Megaman
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/111610
-#EXTINF:-1 tvg-name="Meu Melhor Amigo da Escola e Um Macaco" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Meu Melhor Amigo da Escola e Um Macaco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109378
-#EXTINF:-1 tvg-name="Moranguinho clássico" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Moranguinho clássico
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112270
-#EXTINF:-1 tvg-id="LiveMundoBita" tvg-name="Mundo Bita" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Mundo Bita
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/77144
-#EXTINF:-1 tvg-name="Mutante Rex 2010 - 2013" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Mutante Rex 2010 - 2013
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/113852
-#EXTINF:-1 tvg-name="Novo Banana de Pijamas" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Novo Banana de Pijamas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/111234
-#EXTINF:-1 tvg-name="O gato de botas" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O gato de botas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112788
-#EXTINF:-1 tvg-name="O maskara 1995 - seria animada" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O maskara 1995 - seria animada
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/113079
-#EXTINF:-1 tvg-name="O pequeno principe" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O pequeno principe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109770
-#EXTINF:-1 tvg-name="O pequeno scooby doo" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O pequeno scooby doo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/107891
-#EXTINF:-1 tvg-name="O segredo alem do jardim" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O segredo alem do jardim
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104750
-#EXTINF:-1 tvg-name="O show da luna" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O show da luna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104316
-#EXTINF:-1 tvg-name="O show do novo pica-pau" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O show do novo pica-pau
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/107085
-#EXTINF:-1 tvg-name="O show do ze colmeia" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O show do ze colmeia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/110270
-#EXTINF:-1 tvg-name="O viralata" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O viralata
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/106668
-#EXTINF:-1 tvg-name="Os animais do bosque dos vintens" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os animais do bosque dos vintens
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/106669
-#EXTINF:-1 tvg-name="Os castores pirados" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os castores pirados
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104001
-#EXTINF:-1 tvg-name="Os Feiticeiros de Waverly Place" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os Feiticeiros de Waverly Place
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112798
-#EXTINF:-1 tvg-name="Os flintstones s01" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os flintstones s01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112528
-#EXTINF:-1 tvg-name="Os flintstones s02" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os flintstones s02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112523
-#EXTINF:-1 tvg-name="Os flintstones s03" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os flintstones s03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112790
-#EXTINF:-1 tvg-name="Os flintstones s04" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os flintstones s04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/108793
-#EXTINF:-1 tvg-name="Os flintstones s05" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os flintstones s05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/108552
-#EXTINF:-1 tvg-name="Os flintstones s06" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os flintstones s06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112272
-#EXTINF:-1 tvg-name="Os jetsons" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os jetsons
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/113553
-#EXTINF:-1 tvg-name="Os Jorges" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os Jorges
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/117811
-#EXTINF:-1 tvg-name="Os jovens titas 2003 - 2006" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os jovens titas 2003 - 2006
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112789
-#EXTINF:-1 tvg-name="Os sete monstrinhos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os sete monstrinhos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/113077
-#EXTINF:-1 tvg-name="Os simpsons s01" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/103994
-#EXTINF:-1 tvg-name="Os simpsons s02" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112073
-#EXTINF:-1 tvg-name="Os simpsons s03" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112269
-#EXTINF:-1 tvg-name="Os simpsons s04" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112084
-#EXTINF:-1 tvg-name="Os simpsons s05" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/103878
-#EXTINF:-1 tvg-name="Os simpsons s06" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112268
-#EXTINF:-1 tvg-name="Os simpsons s07" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112080
-#EXTINF:-1 tvg-name="Os simpsons s08" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/107086
-#EXTINF:-1 tvg-name="Os simpsons s09" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/110263
-#EXTINF:-1 tvg-name="Os simpsons s10" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109374
-#EXTINF:-1 tvg-name="Os simpsons s11" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109375
-#EXTINF:-1 tvg-name="Os simpsons s12" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/105178
-#EXTINF:-1 tvg-name="Os simpsons s13" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112056
-#EXTINF:-1 tvg-name="Os simpsons s14" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/110257
-#EXTINF:-1 tvg-name="Os simpsons s15" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109167
-#EXTINF:-1 tvg-name="Os simpsons s16" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/106544
-#EXTINF:-1 tvg-name="Os simpsons s17" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/107090
-#EXTINF:-1 tvg-name="Os simpsons s18" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s18
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109176
-#EXTINF:-1 tvg-name="Os simpsons s19" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s19
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/108799
-#EXTINF:-1 tvg-name="Os simpsons s20" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s20
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/111621
-#EXTINF:-1 tvg-name="Os simpsons s21" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109175
-#EXTINF:-1 tvg-name="Os simpsons s22" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s22
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/106667
-#EXTINF:-1 tvg-name="Os simpsons s23" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s23
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/110871
-#EXTINF:-1 tvg-name="Os simpsons s24" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112522
-#EXTINF:-1 tvg-name="Os simpsons s25" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s25
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/110873
-#EXTINF:-1 tvg-name="Os simpsons s26" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s26
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/111624
-#EXTINF:-1 tvg-name="Os simpsons s27" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s27
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/107899
-#EXTINF:-1 tvg-name="Os simpsons s28" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s28
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/105176
-#EXTINF:-1 tvg-name="Os valentes cowboys de moo mesa" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os valentes cowboys de moo mesa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/107082
-#EXTINF:-1 tvg-name="Os vingadores" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os vingadores
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112059
-#EXTINF:-1 tvg-name="Oswaldo" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Oswaldo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/110264
-#EXTINF:-1 tvg-name="Overman curta metragem" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Overman curta metragem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/99758
-#EXTINF:-1 tvg-name="Pepa Pig" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Pepa Pig
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109172
-#EXTINF:-1 tvg-name="Perdido nas Estrelas" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Perdido nas Estrelas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109772
-#EXTINF:-1 tvg-name="Pernalonga e Sua Turma" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Pernalonga e Sua Turma
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112052
-#EXTINF:-1 tvg-name="Phineas e Ferb" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Phineas e Ferb
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/108554
-#EXTINF:-1 tvg-name="Pica Pau (woody Woodpecker)" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Pica Pau (woody Woodpecker)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/106654
-#EXTINF:-1 tvg-name="Picolino" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Picolino
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/103316
-#EXTINF:-1 tvg-name="Pinky e Cerebro" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Pinky e Cerebro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/110259
-#EXTINF:-1 tvg-name="Popeye 75th anniversary" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Popeye 75th anniversary
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112793
-#EXTINF:-1 tvg-name="Power Stone" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Power Stone
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112274
-#EXTINF:-1 tvg-name="Riquinho" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Riquinho
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/110874
-#EXTINF:-1 tvg-name="Road Runner And Wile e Coyote" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Road Runner And Wile e Coyote
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112054
-#EXTINF:-1 tvg-name="Rocket Power" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Rocket Power
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112050
-#EXTINF:-1 tvg-name="Sagwa a Gatinha Siamesa" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Sagwa a Gatinha Siamesa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112530
-#EXTINF:-1 tvg-name="Scoob Doo Show" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Scoob Doo Show
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112796
-#EXTINF:-1 tvg-name="Shazzan" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Shazzan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109780
-#EXTINF:-1 tvg-name="SHE-RA" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",SHE-RA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/113849
-#EXTINF:-1 tvg-name="Space Goofs" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Space Goofs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/105169
-#EXTINF:-1 tvg-name="Speed racer clássico" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Speed racer clássico
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/111613
-#EXTINF:-1 tvg-name="Super Amigos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Super Amigos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112524
-#EXTINF:-1 tvg-name="Super Choque" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Super Choque
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/81512
-#EXTINF:-1 tvg-name="Super Galo" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Super Galo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/107084
-#EXTINF:-1 tvg-name="Super Mario Bros 3" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Super Mario Bros 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/110261
-#EXTINF:-1 tvg-name="Swat Kats" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Swat Kats
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112533
-#EXTINF:-1 tvg-name="Tartaruga Touche e Dum Dum" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Tartaruga Touche e Dum Dum
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/103998
-#EXTINF:-1 tvg-name="Tarzan" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Tarzan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/105170
-#EXTINF:-1 tvg-name="Tarzan o Rei da Selva" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Tarzan o Rei da Selva
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104752
-#EXTINF:-1 tvg-name="Taz-mania" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Taz-mania
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/111617
-#EXTINF:-1 tvg-name="Teletubbies clássico" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Teletubbies clássico
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/110868
-#EXTINF:-1 tvg-name="Teletubbies Novo" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Teletubbies Novo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/109379
-#EXTINF:-1 tvg-name="Teletubbies Stop Motion" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Teletubbies Stop Motion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/104319
-#EXTINF:-1 tvg-name="Thomas e Seus Amigos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Thomas e Seus Amigos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/107901
-#EXTINF:-1 tvg-name="Timao e Pumba" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Timao e Pumba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/107898
-#EXTINF:-1 tvg-name="Tom & jerry" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Tom & jerry
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112799
-#EXTINF:-1 tvg-name="Trolls - o ritmo continua" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Trolls - o ritmo continua
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/81703
-#EXTINF:-1 tvg-name="Turbo Man" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Turbo Man
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/103996
-#EXTINF:-1 tvg-name="Ursinho Pooh e Seus Amigos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Ursinho Pooh e Seus Amigos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/102570
-#EXTINF:-1 tvg-name="Vale dos Dinossauros" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Vale dos Dinossauros
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/98866
-#EXTINF:-1 tvg-name="Wally Gator" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Wally Gator
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/98865
-#EXTINF:-1 tvg-name="Xuxa So para Baixinhos Box" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Xuxa So para Baixinhos Box
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/112526
-#EXTINF:-1 tvg-name="Xuxa só para Baixinhos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Xuxa só para Baixinhos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/77847
-#EXTINF:-1 tvg-name="Batman: a série Animada" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Batman: a série Animada
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/114849
-#EXTINF:-1 tvg-name="Caverna dos Dragoes" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Caverna dos Dragoes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/139849
-#EXTINF:-1 tvg-name="Mini Beat Power Rockers" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Mini Beat Power Rockers
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/204497
-#EXTINF:-1 tvg-name="A Casa de Mickey Mouse" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A Casa de Mickey Mouse
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/205600
-#EXTINF:-1 tvg-name="Avatar Livro 1 2 3" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Avatar Livro 1 2 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/209542
-#EXTINF:-1 tvg-name="Pocoyo" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Pocoyo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/209598
-#EXTINF:-1 tvg-name="Família Dinossauros" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Família Dinossauros
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/209602
-#EXTINF:-1 tvg-name="O que ha de novo scooby doo" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O que ha de novo scooby doo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/210397
-#EXTINF:-1 tvg-name="South Park" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",South Park
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/213165
-#EXTINF:-1 tvg-name="Os Pinguins de Madagascar" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os Pinguins de Madagascar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/216213
-#EXTINF:-1 tvg-name="Baby Shark" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Baby Shark
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/217071
-#EXTINF:-1 tvg-name="Hora de Aventura" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Hora de Aventura
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/230367
-#EXTINF:-1 tvg-name="Transformes" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Transformes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/243247
-#EXTINF:-1 tvg-name="Homem Aranha" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Homem Aranha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/243234
-#EXTINF:-1 tvg-name="Cocorico" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Cocorico
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/256380
+#EXTINF:-1 tvg-id="Universalreality.br" tvg-name="Universal Reality FHD" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAKgAtAMBIgACEQEDEQH/xAAcAAEAAwEBAQEBAAAAAAAAAAAABQYHAQQDCAL/xABGEAABAwMDAgQDBAUEEwAAAAABAAIDBAURBhIhBzETQVFhFCJxFTKRoQhCUmLwM4Gx4hYXIyY1NjdDc3WChJKis8HD0dL/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQIDBP/EACoRAQACAQEGBAcBAAAAAAAAAAABAgMREiExQVGhBBOR0SJSYWJxseEy/9oADAMBAAIRAxEAPwDDUREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQERem30U9wq46WlZukeePQe59lYiZnSEmYiNZfKCGWolbDBG6SR5w1rRklWik0Y+OH4i81sVHEO7cgn6E9gfxUtNJb9FW9rIWCouMzfvEcn3Po328/zVIuVyq7nUGasmdI7yHk0egHkvVOPHh/3vt06PFXLl8Rvx/DXrzn8LE8aNo27cVVY4cZaT/VC+RqtHy/L8BXQ5/WDs4/5iqui5+f9sejpHhet7eqznT1suH+Arsx8nlBU/K4/Q4H9Cga+gqrdUGCshdFIPI9j9D5rzKwW+/NngFvvzTU0Z7SnmSE+oPn/AB9E1x35aT2XTLj3xO1Hf+q+ikb1a32yoaA8S08rd8E7e0jf/ajlxtWazpLvW0WjagREUaEREBERAREQEREBEVr0loG8ast1ZX2ySkZDSO2yePI5pJ27uMNPkgqiKy6G0bX61uE9FbqimgfBF4rnVBcARkDjAPPKnNLdKrlqOS7xQXGkhfbKt9K/eHEPe3PIOO3CDPloOkqOKy2GW71bcPkYX58xH5AfU/0hRmj9B12o9UVenqib7Oq6SJ75fFj3YLXNaRgH97upvSfTer1NddQ2h1+dAyy1ApyTCXtl+Z7chu4Y/k+3PddsGWMVtrTWeTz+Jwzmpsa6RzUC41s1xrZaqodl8hz9B5AewXmWgaf6aG/6KrNQ0F3DqikEu+hFNk7mc7d27zbg9vPC83TTp7Jrl1e51eaGCjDMyeB4m9zs8dx2A/MLlMzM6y9ERERpCjotS0X0opNV2ytuMOoDDTU9bLTxvNKCHsZgh5+cYyD28l9NV9JKKwaerrrFqaOqfTR7mwCBo38gYzvPr6KDKUWxWbopT3CwW66z6lFMK2mjm2OpRhpe0O25Lxnuq71A6XXHSFLDXQ1bLlQSvEfiRxlrmOPbLcng+RB7/wA2QrtjlFyopbHUHJdmSjcT9yUfq/Q8/wAFQTgWkhwII4IPktltPQ2qZTU09y1FDb7g/D44GQ79jhzjcXDJHHYfis41xp2r0xqKot1fVwVU/ErpIXZzu5G4fqu88e4W7W1iI5w51ps2mY4T+0Ai0WPpLdZNDDUzayLJpfixR+Gdxj7/AHvXb83b2VU0jpur1Xe4rTQSwRTyMc4OnJDflGfIE/ksOiFRSepbJVacvdVaK58T6imID3Qklhy0O4JAPY+ijEBERAREQEREBb1+j2PE0jqGGP5pDNw0d+Y8BYKrNoXWtz0VcZKq3COWKdobPTy52yAdu3YjJwfdBfP0cKedmpbw98T2tjpBG8luNri8cH3+U/grh0tqvh/7PKuINk8O7VErRnh2NxCpd5673Srt8tPa7TBb55AQagzGQtz5tG0DP1yqvorqHUaUs1ztzLeyqFeSXSPlLS3LdvocoP0BpuCy6iuVJrm0O2zVNC6mmbgZd8zTh/7zS0j3HsAqt0i/x26jf6z/APLULJOnnUK46HkqW08LaukqAC6nkeWgPHZwPkccH149ApPS/Uqt0xdr9dRZmy/blR8Rtkkc0M+Z7sA45/lPyQTP6Pt++E1NX2Odw8G4ML4gT/nWZ4A927v+EK3Xyih6Y9Mr5HSPa2or6yVlPg4IEh2tAPq2NufqCsDst1ns96pLrS8TU07ZmjPBwc4Pse386s/UXqLW64iooZqNlHBSuc/w45C/e44GTkDsM/iUGl9GnULekd6ddmOfbxLUmqa3OXReE3cBjntnsqPrWTps/T840rbK2C6bmGN8njbQ3cN2dziO2fJfHQPVOp0XZH2uG1RVTXTum8R8xaeQ0Yxj91SOputNXf7DXWmSyQQtq4jGZGzklvvjCDRK2w2fUfS7SdBfbn9nQmGkdDJva0yS+CQGDd3yCePZQHV65U2jtGWrSFuFTJL/AHOSOombkNZG/dndjBduA4HYd8cZznUnUCe/aNtOm32+OBlu8HbUNlJc/wAOMsHGOM5yvbqHqhV3+w2+irrbCbhQPjlguPiZeJGYy4tIwd2OR2/BBpNRqPSmsDQWnX9kqbbd3BogbPG9uXPxjw5G8gE44djnhUzVHTV8XU+2WiOsqaykuZEzpah+6Vkbc+IHO8+G8HjuAvXQde7lHSsZcrHSVVQ3tMyUxjPrtwefoVC2/q3cIdVVeoq+209XVS04poGCQsZTxbtxa3g5yecn3+iD9Aht0bqJtO2kh+wBRbN28Z8XPbb+zt4WMaEsB0x1zktQa4QxNmdAT5xOYS3nz4OPqCqN/bA1N9ufan2xX4+K+I+G+Kk8L727Ztzjb5Y7YVirOrMlTq+36lFigZVUlPJA5onOJWu7ZOOMZd+KCI6x/wCUq9/6SP8A6bFS1s56/Vh+9p2mP+8n/wCVkFwqTW19TVuaGGeV0haPLcScfmg86IiAiIgIiICIiAiIgK32z++HS8lszmtovngGeXt9PzI/BVBem31s9uq46qldtkYeM9iPMH2XXFeKTv4Txcc+Ob1+HjG+HwILSWuBBHBB8lxWyvoafU0TrlZg1laBmppCeSf2m+v/AH9j3qskb4nuZKxzHtOHNcMEH6KXxzSfp1axZoyR0mOMP5V56O2+iuWrnw3KlpqmBtFNJsqWb2AgDBI9lRl9qaqqKSQyUk8sDy0tLonlpIPcZHksOreqTTlgl1JbGvs9qlnmsVRVSmjpHyUch3s8J0bCcuOM5A55HqFCQaXpblr+CSqtVJBabdQ/FTs+y5LdHM7c4Na5szjnLsc5wQCPJZNDdrlTiIQXGriELS2MMncNjTgkDB4BwPwUjGbzX0U1VcLpUx0Tmhj5Kmd5EuCSGgZ+bnPsOVYrM8GLWisay06TRNC3WV9+FtkE9DX6dnrLdDG0SNjm+QFrCOC4OJxj9oKs2axOsmidRVt8scYuNDU0MsMddBzsMvIwedrsEH1GVRqe7XKmbGKa41cQiaWxiOdzdjSQSBg8AkAn6JUXW41TZG1Nwq5myhokEkznB+ORnJ5x5LLTS9YXe12eDStRHpSw7K6jhrqpraTBdn7zG5JwCPXKjuqtJYbDDR2ixUDQ6szcpKuWMeI2OQnw4WnuGgDkew91n09TUVDYm1E8srYmBkYe8uDG+gz2HslTVVFU5rqqeWZzGhjTI8uLWjsBny9kHyQohVVxERRBERAREQEREBERAREQfSCeWmmbNBI6ORhy17TghT7dSQVzGx363R1eOBPGdkg/Dv8Akq4i3TJanBzvipffMb+6wOptMTjdFcK2mz+rLFvx+C/n4LTrOXXiokHpHTEH81AoteZHyx392PJn557eybNws9Fzbra+olHaWuduA/2BwVHXC4VVxm8WsmdI4cNHYNHoB2C8q6Fm2S0xpybpirWdeYiIsuoiIgIUQoOIiKIIiICIiAiIgIiICIiAiIgIiIC6FxdCAiIqoiIgIUQoOIiKIIiICIiAiIgIiICIiAiIgIiIC6FxdCAiIqoiIgIUQoOIiKIIiICIiAiIgIiICIiAiIgIiIC6ERAREVUREQEKIg4iIogiIg//2Q==" group-title="VARIEDADES",Universal Reality FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/256371
+#EXTINF:-1 tvg-name="URBAN TRAVEL HD" tvg-logo="https://i.imgur.com/f9IhKqS.png" group-title="VARIEDADES",URBAN TRAVEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/180724
+#EXTINF:-1 tvg-id="ARTE 1 HD" tvg-name="Arte 1 FHD" tvg-logo="https://cdn4k.store/logos/arte1.png" group-title="VARIEDADES",Arte 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/28654
+#EXTINF:-1 tvg-id="ARTE 1 HD" tvg-name="Arte 1 FHD²" tvg-logo="https://cdn4k.store/logos/arte1.png" group-title="VARIEDADES",Arte 1 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/100484
+#EXTINF:-1 tvg-id="ARTE 1 HD" tvg-name="Arte 1 HD" tvg-logo="https://cdn4k.store/logos/arte1.png" group-title="VARIEDADES",Arte 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/10878
+#EXTINF:-1 tvg-id="ARTE 1 HD" tvg-name="Arte 1 HD²" tvg-logo="https://cdn4k.store/logos/arte1.png" group-title="VARIEDADES",Arte 1 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/35417
+#EXTINF:-1 tvg-id="ARTE 1 HD" tvg-name="Arte 1 SD" tvg-logo="https://cdn4k.store/logos/arte1.png" group-title="VARIEDADES",Arte 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6492
+#EXTINF:-1 tvg-id="ARTE 1 HD" tvg-name="Arte 1 SD²" tvg-logo="https://cdn4k.store/logos/arte1.png" group-title="VARIEDADES",Arte 1 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/10879
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="Adult Swim FHD" tvg-logo="https://cdn4k.store/logos/trutv.png" group-title="VARIEDADES",Adult Swim FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/28633
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="Adult Swim HD" tvg-logo="https://cdn4k.store/logos/trutv.png" group-title="VARIEDADES",Adult Swim HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/21100
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="Adult Swim SD" tvg-logo="https://cdn4k.store/logos/trutv.png" group-title="VARIEDADES",Adult Swim SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6451
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="https://cdn4k.store/logos/comedycentral.png" group-title="VARIEDADES",Comedy Central FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/16865
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD²" tvg-logo="https://cdn4k.store/logos/comedycentral.png" group-title="VARIEDADES",Comedy Central FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/64436
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="https://cdn4k.store/logos/comedycentral.png" group-title="VARIEDADES",Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6623
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD²" tvg-logo="https://cdn4k.store/logos/comedycentral.png" group-title="VARIEDADES",Comedy Central HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/10849
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="https://cdn4k.store/logos/comedycentral.png" group-title="VARIEDADES",Comedy Central SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6622
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD²" tvg-logo="https://cdn4k.store/logos/comedycentral.png" group-title="VARIEDADES",Comedy Central SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/10850
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! FHD" tvg-logo="https://cdn4k.store/logos/curta.png" group-title="VARIEDADES",Curta! FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/28652
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! FHD²" tvg-logo="https://cdn4k.store/logos/curta.png" group-title="VARIEDADES",Curta! FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/100472
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! HD" tvg-logo="https://cdn4k.store/logos/curta.png" group-title="VARIEDADES",Curta! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/10846
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! HD²" tvg-logo="https://cdn4k.store/logos/curta.png" group-title="VARIEDADES",Curta! HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/100473
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! SD" tvg-logo="https://cdn4k.store/logos/curta.png" group-title="VARIEDADES",Curta! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6621
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! SD²" tvg-logo="https://cdn4k.store/logos/curta.png" group-title="VARIEDADES",Curta! SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/10847
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! SD²" tvg-logo="https://cdn4k.store/logos/curta.png" group-title="VARIEDADES",Curta! SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/100474
+#EXTINF:-1 tvg-id="Dogtv.pt" tvg-name="Dog TV FHD" tvg-logo="https://cdn4k.store/logos/dogtv.png" group-title="VARIEDADES",Dog TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/98441
+#EXTINF:-1 tvg-id="Dogtv.pt" tvg-name="Dog TV FHD²" tvg-logo="https://cdn4k.store/logos/dogtv.png" group-title="VARIEDADES",Dog TV FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/100442
+#EXTINF:-1 tvg-id="Dogtv.pt" tvg-name="Dog TV HD" tvg-logo="https://cdn4k.store/logos/dogtv.png" group-title="VARIEDADES",Dog TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/98442
+#EXTINF:-1 tvg-id="Dogtv.pt" tvg-name="Dog TV HD²" tvg-logo="https://cdn4k.store/logos/dogtv.png" group-title="VARIEDADES",Dog TV HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/100443
+#EXTINF:-1 tvg-id="Dogtv.pt" tvg-name="Dog TV SD" tvg-logo="https://cdn4k.store/logos/dogtv.png" group-title="VARIEDADES",Dog TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/100444
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="https://cdn4k.store/logos/e!.png" group-title="VARIEDADES",E! FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/28650
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD²" tvg-logo="https://cdn4k.store/logos/e!.png" group-title="VARIEDADES",E! FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/100438
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://cdn4k.store/logos/e!.png" group-title="VARIEDADES",E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6598
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD²" tvg-logo="https://cdn4k.store/logos/e!.png" group-title="VARIEDADES",E! HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/10827
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="https://cdn4k.store/logos/e!.png" group-title="VARIEDADES",E! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6597
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD²" tvg-logo="https://cdn4k.store/logos/e!.png" group-title="VARIEDADES",E! SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/10828
+#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="Fashion TV FHD" tvg-logo="https://i.imgur.com/1pVZkV5.png" group-title="VARIEDADES",Fashion TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/100499
+#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="Fashion TV HD" tvg-logo="https://i.imgur.com/1pVZkV5.png" group-title="VARIEDADES",Fashion TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/100500
+#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="Fashion TV SD" tvg-logo="https://i.imgur.com/1pVZkV5.png" group-title="VARIEDADES",Fashion TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/100501
+#EXTINF:-1 tvg-id="FOOD NETWORK HD" tvg-name="Food Network FHD" tvg-logo="https://cdn4k.store/logos/foodnetwork.png" group-title="VARIEDADES",Food Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/16854
+#EXTINF:-1 tvg-id="FOOD NETWORK HD" tvg-name="Food Network FHD²" tvg-logo="https://cdn4k.store/logos/foodnetwork.png" group-title="VARIEDADES",Food Network FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/35438
+#EXTINF:-1 tvg-id="FOOD NETWORK HD" tvg-name="Food Network HD" tvg-logo="https://cdn4k.store/logos/foodnetwork.png" group-title="VARIEDADES",Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6585
+#EXTINF:-1 tvg-id="FOOD NETWORK HD" tvg-name="Food Network HD²" tvg-logo="https://cdn4k.store/logos/foodnetwork.png" group-title="VARIEDADES",Food Network HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6888
+#EXTINF:-1 tvg-id="FOOD NETWORK HD" tvg-name="Food Network SD" tvg-logo="https://cdn4k.store/logos/foodnetwork.png" group-title="VARIEDADES",Food Network SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6584
+#EXTINF:-1 tvg-id="FOOD NETWORK HD" tvg-name="Food Network SD²" tvg-logo="https://cdn4k.store/logos/foodnetwork.png" group-title="VARIEDADES",Food Network SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/10818
+#EXTINF:-1 tvg-id="VIVA HD" tvg-name="GloboPlay Novelas FHD" tvg-logo="https://cdn4k.store/logos/viva.png" group-title="VARIEDADES",GloboPlay Novelas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6920
+#EXTINF:-1 tvg-id="VIVA HD" tvg-name="GloboPlay Novelas FHD²" tvg-logo="https://cdn4k.ink/logos/GLOBOPLAY-NOVELAS.png" group-title="VARIEDADES",GloboPlay Novelas FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/16804
+#EXTINF:-1 tvg-id="VIVA HD" tvg-name="GloboPlay Novelas HD" tvg-logo="https://cdn4k.store/logos/viva.png" group-title="VARIEDADES",GloboPlay Novelas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6441
+#EXTINF:-1 tvg-id="VIVA HD" tvg-name="GloboPlay Novelas HD²" tvg-logo="https://cdn4k.store/logos/viva.png" group-title="VARIEDADES",GloboPlay Novelas HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6870
+#EXTINF:-1 tvg-id="VIVA HD" tvg-name="GloboPlay Novelas SD" tvg-logo="https://cdn4k.ink/logos/GLOBOPLAY-NOVELAS.png" group-title="VARIEDADES",GloboPlay Novelas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/61
+#EXTINF:-1 tvg-id="VIVA HD" tvg-name="GloboPlay Novelas SD²" tvg-logo="https://cdn4k.ink/logos/GLOBOPLAY-NOVELAS.png" group-title="VARIEDADES",GloboPlay Novelas SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/10653
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT FHD" tvg-logo="https://cdn4k.store/logos/gnt.png" group-title="VARIEDADES",GNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/28647
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT FHD²" tvg-logo="https://cdn4k.store/logos/gnt.png" group-title="VARIEDADES",GNT FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/100441
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="https://cdn4k.store/logos/gnt.png" group-title="VARIEDADES",GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6563
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD²" tvg-logo="https://cdn4k.store/logos/gnt.png" group-title="VARIEDADES",GNT HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/10803
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT SD" tvg-logo="https://cdn4k.store/logos/gnt.png" group-title="VARIEDADES",GNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6562
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT SD²" tvg-logo="https://cdn4k.store/logos/gnt.png" group-title="VARIEDADES",GNT SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/10804
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime FHD" tvg-logo="https://cdn4k.store/logos/lifetime.png" group-title="VARIEDADES",Lifetime FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/28642
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime FHD²" tvg-logo="https://cdn4k.store/logos/lifetime.png" group-title="VARIEDADES",Lifetime FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/100481
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime HD" tvg-logo="https://cdn4k.store/logos/lifetime.png" group-title="VARIEDADES",Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6545
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime HD²" tvg-logo="https://cdn4k.store/logos/lifetime.png" group-title="VARIEDADES",Lifetime HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/10752
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime SD" tvg-logo="https://cdn4k.store/logos/lifetime.png" group-title="VARIEDADES",Lifetime SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6544
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime SD²" tvg-logo="https://cdn4k.store/logos/lifetime.png" group-title="VARIEDADES",Lifetime SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/10753
+#EXTINF:-1 tvg-name="Malhacao Fast FHD" tvg-logo="https://cdn4k.ink/logos/MALHACAO-FAST.png" group-title="VARIEDADES",Malhacao Fast FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/253565
+#EXTINF:-1 tvg-name="Malhacao Fast HD" tvg-logo="https://cdn4k.ink/logos/MALHACAO-FAST.png" group-title="VARIEDADES",Malhacao Fast HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/253982
+#EXTINF:-1 tvg-name="Malhacao Fast SD" tvg-logo="https://cdn4k.ink/logos/MALHACAO-FAST.png" group-title="VARIEDADES",Malhacao Fast SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/253985
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Modo Viagem FHD" tvg-logo="https://cdn4k.store/logos/OMODO-VIAGEM.png" group-title="VARIEDADES",Modo Viagem FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/28629
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Modo Viagem FHD²" tvg-logo="https://cdn4k.store/logos/OMODO-VIAGEM.png" group-title="VARIEDADES",Modo Viagem FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/100455
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Modo Viagem HD" tvg-logo="https://cdn4k.store/logos/OMODO-VIAGEM.png" group-title="VARIEDADES",Modo Viagem HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6567
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Modo Viagem HD²" tvg-logo="https://cdn4k.store/logos/OMODO-VIAGEM.png" group-title="VARIEDADES",Modo Viagem HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/10773
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Modo Viagem SD" tvg-logo="https://cdn4k.store/logos/OMODO-VIAGEM.png" group-title="VARIEDADES",Modo Viagem SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6566
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Modo Viagem SD²" tvg-logo="https://cdn4k.store/logos/OMODO-VIAGEM.png" group-title="VARIEDADES",Modo Viagem SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/10774
+#EXTINF:-1 tvg-id="Polishop.br" tvg-name="Polishop TV" tvg-logo="https://cdn4k.store/logos/POLISHOP-TV.png" group-title="VARIEDADES",Polishop TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/38257
+#EXTINF:-1 tvg-id="Sabor &amp; Arte" tvg-name="Sabor e Arte HD" tvg-logo="https://i.imgur.com/TiWLqlx.png" group-title="VARIEDADES",Sabor e Arte HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/205327
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC FHD" tvg-logo="https://cdn4k.store/logos/tlc.png" group-title="VARIEDADES",TLC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/28635
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC FHD²" tvg-logo="https://cdn4k.store/logos/tlc.png" group-title="VARIEDADES",TLC FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/100440
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC HD" tvg-logo="https://cdn4k.store/logos/tlc.png" group-title="VARIEDADES",TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6459
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC HD²" tvg-logo="https://cdn4k.store/logos/tlc.png" group-title="VARIEDADES",TLC HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/10682
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC SD" tvg-logo="https://cdn4k.store/logos/tlc.png" group-title="VARIEDADES",TLC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/6458
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC SD²" tvg-logo="https://cdn4k.store/logos/tlc.png" group-title="VARIEDADES",TLC SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/10683
+#EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT Novelas FHD" tvg-logo="https://cdn4k.store/logos/TNT-NOVELAS.png" group-title="VARIEDADES",TNT Novelas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/226258
+#EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT Novelas HD" tvg-logo="https://cdn4k.store/logos/TNT-NOVELAS.png" group-title="VARIEDADES",TNT Novelas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/226259
+#EXTINF:-1 tvg-id="Tracebr.br" tvg-name="Trace Brazuca FHD" tvg-logo="https://i.imgur.com/EUDaMHw.png" group-title="VARIEDADES",Trace Brazuca FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/113598
+#EXTINF:-1 tvg-id="Tracebr.br" tvg-name="Trace Brazuca HD" tvg-logo="https://i.imgur.com/EUDaMHw.png" group-title="VARIEDADES",Trace Brazuca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/113599
+#EXTINF:-1 tvg-id="Tracebr.br" tvg-name="Trace Brazuca SD" tvg-logo="https://i.imgur.com/EUDaMHw.png" group-title="VARIEDADES",Trace Brazuca SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/113600
+#EXTINF:-1 tvg-name="UOL TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlpjtBQNw2lIqRmP2kJqk3hMUgtrk_FLXNz4Sgll-KGAAytKAiv0Kd3_pKLrSCvQmW5oM&usqp=CAU" group-title="VARIEDADES",UOL TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/258299
+#EXTINF:-1 tvg-id="WOOHOO HD" tvg-name="Woohoo FHD" tvg-logo="https://cdn4k.store/logos/woohoo.png" group-title="VARIEDADES",Woohoo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/28630
+#EXTINF:-1 tvg-id="WOOHOO HD" tvg-name="Woohoo FHD²" tvg-logo="https://cdn4k.store/logos/woohoo.png" group-title="VARIEDADES",Woohoo FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/100511
+#EXTINF:-1 tvg-id="WOOHOO HD" tvg-name="Woohoo HD" tvg-logo="https://cdn4k.store/logos/woohoo.png" group-title="VARIEDADES",Woohoo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/10649
+#EXTINF:-1 tvg-id="WOOHOO HD" tvg-name="Woohoo HD²" tvg-logo="https://cdn4k.store/logos/woohoo.png" group-title="VARIEDADES",Woohoo HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/35385
+#EXTINF:-1 tvg-id="WOOHOO HD" tvg-name="Woohoo SD" tvg-logo="https://cdn4k.store/logos/woohoo.png" group-title="VARIEDADES",Woohoo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/59
+#EXTINF:-1 tvg-id="WOOHOO HD" tvg-name="Woohoo SD²" tvg-logo="https://cdn4k.store/logos/woohoo.png" group-title="VARIEDADES",Woohoo SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ INFINITYPLAY[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn4k.club:80/DavidBritto/David2424/10650
