@@ -1,1 +1,31 @@
+#EXTM3U
+
+
+
+
+
+#EXTINF:-1 tvg-id="Bbb.br" tvg-name="BBB - BIG DAY" tvg-logo="https://googleplusimages.com/BBB.png" group-title="BBB",BBB - BIG DAY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://serv99.xyz:8880/80497944/54395170/297731
+#EXTINF:-1 tvg-id="Bbb.br" tvg-name="BBB - NORTE" tvg-logo="https://googleplusimages.com/BBB.png" group-title="BBB",BBB - NORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://serv99.xyz:8880/80497944/54395170/297732
+#EXTINF:-1 tvg-id="Bbb.br" tvg-name="BBB - NORDESTE" tvg-logo="https://googleplusimages.com/BBB.png" group-title="BBB",BBB - NORDESTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://serv99.xyz:8880/80497944/54395170/297733
+#EXTINF:-1 tvg-id="Bbb.br" tvg-name="BBB - SUDESTE" tvg-logo="https://googleplusimages.com/BBB.png" group-title="BBB",BBB - SUDESTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://serv99.xyz:8880/80497944/54395170/297735
+#EXTINF:-1 tvg-id="Bbb.br" tvg-name="BBB - CENTRO-OESTE" tvg-logo="https://googleplusimages.com/BBB.png" group-title="BBB",BBB - CENTRO-OESTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://serv99.xyz:8880/80497944/54395170/297734
+#EXTINF:-1 tvg-id="Bbb.br" tvg-name="BBB - SUL" tvg-logo="https://googleplusimages.com/BBB.png" group-title="BBB",BBB - SUL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://serv99.xyz:8880/80497944/54395170/297736
+#EXTINF:-1 tvg-id="Bbb.br" tvg-name="BBB - SINAL 7" tvg-logo="https://googleplusimages.com/BBB.png" group-title="BBB",BBB - SINAL 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://serv99.xyz:8880/80497944/54395170/297737
+#EXTINF:-1 tvg-id="Bbb.br" tvg-name="BBB - SINAL 8" tvg-logo="https://googleplusimages.com/BBB.png" group-title="BBB",BBB - SINAL 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://serv99.xyz:8880/80497944/54395170/297738
+#EXTINF:-1 tvg-id="Bbb.br" tvg-name="BBB - SINAL 9" tvg-logo="https://googleplusimages.com/BBB.png" group-title="BBB",BBB - SINAL 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://serv99.xyz:8880/80497944/54395170/297739
+#EXTINF:-1 tvg-id="Bbb.br" tvg-name="BBB - SINAL 10" tvg-logo="https://googleplusimages.com/BBB.png" group-title="BBB",BBB - SINAL 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://serv99.xyz:8880/80497944/54395170/297740
+#EXTINF:-1 tvg-id="Bbb.br" tvg-name="BBB - SINAL 11" tvg-logo="https://googleplusimages.com/BBB.png" group-title="BBB",BBB - SINAL 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://serv99.xyz:8880/80497944/54395170/297741
+#EXTINF:-1 tvg-id="Bbb.br" tvg-name="BBB - SINAL 12" tvg-logo="https://googleplusimages.com/BBB.png" group-title="BBB",BBB - SINAL 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://serv99.xyz:8880/80497944/54395170/297742
 
