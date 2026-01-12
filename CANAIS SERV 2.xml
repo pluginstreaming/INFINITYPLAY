@@ -3,67 +3,13 @@
 
 
 
-
-
-
 #EXTINF:-1 tvg-name="BBB 26 CAM 1" group-title="✨REALITY BBB 26",BBB 26 CAM 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475227.ts
+http://maxut.fun:80/816032972/896140496/6475227.ts
 #EXTINF:-1 tvg-name="BBB 26 CAM 2" group-title="✨REALITY BBB 26",BBB 26 CAM 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475230.ts
+http://maxut.fun:80/816032972/896140496/6475230.ts
 #EXTINF:-1 tvg-name="BBB 26 CAM 3" group-title="✨REALITY BBB 26",BBB 26 CAM 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475231.ts
+http://maxut.fun:80/816032972/896140496/6475231.ts
 #EXTINF:-1 tvg-name="BBB 26 CAM 4" group-title="✨REALITY BBB 26",BBB 26 CAM 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475232.ts
+http://maxut.fun:80/816032972/896140496/6475232.ts
 #EXTINF:-1 tvg-name="BBB 26 CAM 5" group-title="✨REALITY BBB 26",BBB 26 CAM 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475233.ts
-
-
-
-
-
-#EXTINF:-1 tvg-id="São.Paulo/SP..Agro.Mais.br" tvg-name="AGRO+ FHD" tvg-logo="http://ixi.paineluhd.club:80/images/0d1eb6c8a1bc30ba6454eb2ab48266ed.png" group-title="✨ABERTOS",AGRO+ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6.ts
-#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="TV BRASIL FHD" tvg-logo="http://ixi.paineluhd.club:80/images/ae774b8cbf672f48bf845f9a8c20d2ef.png" group-title="✨ABERTOS",TV BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/469.ts
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="TV BRASIL HD" tvg-logo="http://ixi.paineluhd.club:80/images/ae774b8cbf672f48bf845f9a8c20d2ef.png" group-title="✨ABERTOS",TV BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/4774475.ts
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="TV BRASIL SD" tvg-logo="http://ixi.paineluhd.club:80/images/ae774b8cbf672f48bf845f9a8c20d2ef.png" group-title="✨ABERTOS",TV BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/4774476.ts
-#EXTINF:-1 tvg-id="canalboi.br" tvg-name="CANAL DO BOI FHD" tvg-logo="http://ixi.paineluhd.club:80/images/53eced46522e5cd74ccb01083dbff7d9.png" group-title="✨ABERTOS",CANAL DO BOI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/369617.ts
-#EXTINF:-1 tvg-id="canalrural.br" tvg-name="CANAL RURAL HD" tvg-logo="http://ixi.paineluhd.club:80/images/d8c93108600d114d5727ac8c5fa7b3ec.png" group-title="✨ABERTOS",CANAL RURAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/470.ts
-#EXTINF:-1 tvg-id="canalrural.br" tvg-name="CANAL RURAL SD" tvg-logo="http://ixi.paineluhd.club:80/images/d8c93108600d114d5727ac8c5fa7b3ec.png" group-title="✨ABERTOS",CANAL RURAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/471.ts
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA 4K" tvg-logo="https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/369649.ts
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA FHD" tvg-logo="https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/171844.ts
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA HD" tvg-logo="https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/472.ts
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA SD" tvg-logo="https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/473.ts
-#EXTINF:-1 tvg-id="REDEBR" tvg-name="REDE BRASIL" tvg-logo="https://i.imgur.com/tVMEQmb.png" group-title="✨ABERTOS",REDE BRASIL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/474.ts
-#EXTINF:-1 tvg-id="Rede TV SD" tvg-name="REDE TV FHD" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/476.ts
-#EXTINF:-1 tvg-id="Rede TV HD" tvg-name="REDE TV HD" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/171878.ts
-#EXTINF:-1 tvg-id="Rede TV FHD" tvg-name="REDE TV SD" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/477.ts
-#EXTINF:-1 tvg-id="tvcÃƒÆ’Ã‚Â¢mara.br" tvg-name="TV CAMARA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="✨ABERTOS",TV CAMARA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/479.ts
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA 4K" tvg-logo="https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/369627.ts
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA FHD" tvg-logo="https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/480.ts
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/481.ts
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA SD" tvg-logo="https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/482.ts
-#EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA 4K" tvg-logo="https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/369727.ts
-#EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA FHD" tvg-logo="https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/483.ts
-#EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/171896.ts
+http://maxut.fun:80/816032972/896140496/6475233.ts
