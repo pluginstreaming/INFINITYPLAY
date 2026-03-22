@@ -1,4 +1,41 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Band News FHD" tvg-logo="http://97j91.xyz/images/logos/1f903cbd608d22ff2db1470f7f2c7e99.png" group-title="NOTÍCIAS", Band News FHDhttp://falcon3.online/live/776615719/821630973/1696730.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Band News FHD" tvg-logo="http://97j91.xyz/images/logos/1f903cbd608d22ff2db1470f7f2c7e99.png" group-title="NOTÍCIAS", Band News FHD	http://falcon3.online/live/776615719/821630973/1696730.m3u8
+2	#EXTINF:-1 tvg-id="" tvg-name="Band News HD" tvg-logo="http://97j91.xyz/images/logos/1f903cbd608d22ff2db1470f7f2c7e99.png" group-title="NOTÍCIAS", Band News HD	http://falcon3.online/live/776615719/821630973/1696731.m3u8
+3	#EXTINF:-1 tvg-id="" tvg-name="SBT NEWS HD" tvg-logo="https://pbs.twimg.com/profile_images/2001727423298084864/NW8EW1Wh_400x400.jpg" group-title="NOTÍCIAS", SBT NEWS HD	http://falcon3.online/live/776615719/821630973/1752411.m3u8
+4	#EXTINF:-1 tvg-id="" tvg-name="SBT NEWS FHD" tvg-logo="https://pbs.twimg.com/profile_images/2001727423298084864/NW8EW1Wh_400x400.jpg" group-title="NOTÍCIAS", SBT NEWS FHD	http://falcon3.online/live/776615719/821630973/1752412.m3u8
+5	#EXTINF:-1 tvg-id="" tvg-name="Band News FHD" tvg-logo="http://abso2.lat:80/images/2b433ec91bbcc570efa31f28aae829e7.png" group-title="NOTÍCIAS", Band News FHD	http://falcon3.online/live/776615719/821630973/1775265.m3u8
+6	#EXTINF:-1 tvg-id="" tvg-name="Band News HD" tvg-logo="http://abso2.lat:80/images/2b433ec91bbcc570efa31f28aae829e7.png" group-title="NOTÍCIAS", Band News HD	http://falcon3.online/live/776615719/821630973/1775266.m3u8
+7	#EXTINF:-1 tvg-id="" tvg-name="Band News SD" tvg-logo="http://abso2.lat:80/images/2b433ec91bbcc570efa31f28aae829e7.png" group-title="NOTÍCIAS", Band News SD	http://falcon3.online/live/776615719/821630973/1775267.m3u8
+8	#EXTINF:-1 tvg-id="" tvg-name="Bloomberg HD" tvg-logo="http://abso2.lat:80/images/912764f57e24f1810830830869345995.png" group-title="NOTÍCIAS", Bloomberg HD	http://falcon3.online/live/776615719/821630973/1775268.m3u8
+9	#EXTINF:-1 tvg-id="" tvg-name="CNBC Brasil FHD" tvg-logo="http://abso2.lat:80/images/f242a3b84b9b869e2bf122476df1cf45.png" group-title="NOTÍCIAS", CNBC Brasil FHD	http://falcon3.online/live/776615719/821630973/1775269.m3u8
+10	#EXTINF:-1 tvg-id="" tvg-name="CNBC Brasil HD" tvg-logo="http://abso2.lat:80/images/f242a3b84b9b869e2bf122476df1cf45.png" group-title="NOTÍCIAS", CNBC Brasil HD	http://falcon3.online/live/776615719/821630973/1775270.m3u8
+11	#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil FHD" tvg-logo="http://abso2.lat:80/images/c99e6a6ff42e32202ee6876a27f178b7.png" group-title="NOTÍCIAS", CNN Brasil FHD	http://falcon3.online/live/776615719/821630973/1775271.m3u8
+12	#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil HD" tvg-logo="http://abso2.lat:80/images/c99e6a6ff42e32202ee6876a27f178b7.png" group-title="NOTÍCIAS", CNN Brasil HD	http://falcon3.online/live/776615719/821630973/1775272.m3u8
+13	#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil SD" tvg-logo="http://abso2.lat:80/images/c99e6a6ff42e32202ee6876a27f178b7.png" group-title="NOTÍCIAS", CNN Brasil SD	http://falcon3.online/live/776615719/821630973/1775273.m3u8
+14	#EXTINF:-1 tvg-id="" tvg-name="CNN Espanhol FHD" tvg-logo="http://abso2.lat:80/images/78683f5542e475d176046cd481db8d28.png" group-title="NOTÍCIAS", CNN Espanhol FHD	http://falcon3.online/live/776615719/821630973/1775274.m3u8
+15	#EXTINF:-1 tvg-id="" tvg-name="CNN Espanhol HD" tvg-logo="http://abso2.lat:80/images/78683f5542e475d176046cd481db8d28.png" group-title="NOTÍCIAS", CNN Espanhol HD	http://falcon3.online/live/776615719/821630973/1775275.m3u8
+16	#EXTINF:-1 tvg-id="" tvg-name="CNN Espanhol SD" tvg-logo="http://abso2.lat:80/images/78683f5542e475d176046cd481db8d28.png" group-title="NOTÍCIAS", CNN Espanhol SD	http://falcon3.online/live/776615719/821630973/1775276.m3u8
+17	#EXTINF:-1 tvg-id="" tvg-name="CNN Internacional FHD" tvg-logo="http://abso2.lat:80/images/7cd58376e23031590b4d752913c7e51e.png" group-title="NOTÍCIAS", CNN Internacional FHD	http://falcon3.online/live/776615719/821630973/1775277.m3u8
+18	#EXTINF:-1 tvg-id="" tvg-name="CNN Internacional HD" tvg-logo="http://abso2.lat:80/images/7cd58376e23031590b4d752913c7e51e.png" group-title="NOTÍCIAS", CNN Internacional HD	http://falcon3.online/live/776615719/821630973/1775278.m3u8
+19	#EXTINF:-1 tvg-id="" tvg-name="CNN Money HD" tvg-logo="http://abso2.lat:80/images/b63a3cbb4273228c98a1f3cce2c2a4c0.png" group-title="NOTÍCIAS", CNN Money HD	http://falcon3.online/live/776615719/821630973/1775279.m3u8
+20	#EXTINF:-1 tvg-id="" tvg-name="CNN Portugal FHD" tvg-logo="http://abso2.lat:80/images/a6a69036386d68fbc4b92043adb029dc.png" group-title="NOTÍCIAS", CNN Portugal FHD	http://falcon3.online/live/776615719/821630973/1775280.m3u8
+21	#EXTINF:-1 tvg-id="" tvg-name="CNN Portugal HD" tvg-logo="http://abso2.lat:80/images/a6a69036386d68fbc4b92043adb029dc.png" group-title="NOTÍCIAS", CNN Portugal HD	http://falcon3.online/live/776615719/821630973/1775281.m3u8
+22	#EXTINF:-1 tvg-id="" tvg-name="CNT HD" tvg-logo="http://abso2.lat:80/images/5f651af4df934b4ba1f597eb1eb4aa7b.png" group-title="NOTÍCIAS", CNT HD	http://falcon3.online/live/776615719/821630973/1775282.m3u8
+23	#EXTINF:-1 tvg-id="" tvg-name="Euronews en Español HD" tvg-logo="http://abso2.lat:80/images/78508b704d3417a002fe96da5ef9bc8b.png" group-title="NOTÍCIAS", Euronews en Español HD	http://falcon3.online/live/776615719/821630973/1775283.m3u8
+24	#EXTINF:-1 tvg-id="" tvg-name="Euronews English HD" tvg-logo="http://abso2.lat:80/images/78508b704d3417a002fe96da5ef9bc8b.png" group-title="NOTÍCIAS", Euronews English HD	http://falcon3.online/live/776615719/821630973/1775284.m3u8
+25	#EXTINF:-1 tvg-id="" tvg-name="Euronews Português HD" tvg-logo="http://abso2.lat:80/images/78508b704d3417a002fe96da5ef9bc8b.png" group-title="NOTÍCIAS", Euronews Português HD	http://falcon3.online/live/776615719/821630973/1775285.m3u8
+26	#EXTINF:-1 tvg-id="" tvg-name="Fox News HD" tvg-logo="http://abso2.lat:80/images/6d3a396f773555dc75a6e49addd953ab.png" group-title="NOTÍCIAS", Fox News HD	http://falcon3.online/live/776615719/821630973/1775286.m3u8
+27	#EXTINF:-1 tvg-id="" tvg-name="Globo News FHD" tvg-logo="http://abso2.lat:80/images/852d88b8e289d1eff27101eed028594f.png" group-title="NOTÍCIAS", Globo News FHD	http://falcon3.online/live/776615719/821630973/1775287.m3u8
+28	#EXTINF:-1 tvg-id="" tvg-name="Globo News HD" tvg-logo="http://abso2.lat:80/images/852d88b8e289d1eff27101eed028594f.png" group-title="NOTÍCIAS", Globo News HD	http://falcon3.online/live/776615719/821630973/1775288.m3u8
+29	#EXTINF:-1 tvg-id="" tvg-name="Globo News SD" tvg-logo="http://abso2.lat:80/images/852d88b8e289d1eff27101eed028594f.png" group-title="NOTÍCIAS", Globo News SD	http://falcon3.online/live/776615719/821630973/1775289.m3u8
+30	#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News FHD" tvg-logo="http://abso2.lat:80/images/3fe73378dc50923fb48c3f9426520c7a.png" group-title="NOTÍCIAS", Jovem Pan News FHD	http://falcon3.online/live/776615719/821630973/1775290.m3u8
+31	#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News HD" tvg-logo="http://abso2.lat:80/images/3fe73378dc50923fb48c3f9426520c7a.png" group-title="NOTÍCIAS", Jovem Pan News HD	http://falcon3.online/live/776615719/821630973/1775291.m3u8
+32	#EXTINF:-1 tvg-id="" tvg-name="Record News FHD" tvg-logo="http://abso2.lat:80/images/7df79f60cebd154ac1769dd1c3dd96e5.png" group-title="NOTÍCIAS", Record News FHD	http://falcon3.online/live/776615719/821630973/1775292.m3u8
+33	#EXTINF:-1 tvg-id="" tvg-name="Record News HD" tvg-logo="http://abso2.lat:80/images/7df79f60cebd154ac1769dd1c3dd96e5.png" group-title="NOTÍCIAS", Record News HD	http://falcon3.online/live/776615719/821630973/1775293.m3u8
+34	#EXTINF:-1 tvg-id="" tvg-name="Record News SD" tvg-logo="http://abso2.lat:80/images/7df79f60cebd154ac1769dd1c3dd96e5.png" group-title="NOTÍCIAS", Record News SD	http://falcon3.online/live/776615719/821630973/1775294.m3u8
+35	#EXTINF:-1 tvg-id="" tvg-name="Sbt News HD" tvg-logo="https://t2.tudocdn.net/779337?w=1920" group-title="NOTÍCIAS", Sbt News HD	http://falcon3.online/live/776615719/821630973/1775295.m3u8
+36	#EXTINF:-1 tvg-id="" tvg-name="Sbt News FHD" tvg-logo="https://t2.tudocdn.net/779337?w=1920" group-title="NOTÍCIAS", Sbt News FHD	http://falcon3.online/live/776615719/821630973/1775296.m3u8
