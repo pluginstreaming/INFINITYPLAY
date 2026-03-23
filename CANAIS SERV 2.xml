@@ -1,15 +1,9 @@
-#EXTM3U
-
-
-
-
-#EXTINF:-1 tvg-name="BBB 26 CAM 1" group-title="✨REALITY BBB 26",BBB 26 CAM 1
-http://maxut.fun:80/816032972/896140496/6475227.ts
-#EXTINF:-1 tvg-name="BBB 26 CAM 2" group-title="✨REALITY BBB 26",BBB 26 CAM 2
-http://maxut.fun:80/816032972/896140496/6475230.ts
-#EXTINF:-1 tvg-name="BBB 26 CAM 3" group-title="✨REALITY BBB 26",BBB 26 CAM 3
-http://maxut.fun:80/816032972/896140496/6475231.ts
-#EXTINF:-1 tvg-name="BBB 26 CAM 4" group-title="✨REALITY BBB 26",BBB 26 CAM 4
-http://maxut.fun:80/816032972/896140496/6475232.ts
-#EXTINF:-1 tvg-name="BBB 26 CAM 5" group-title="✨REALITY BBB 26",BBB 26 CAM 5
-http://maxut.fun:80/816032972/896140496/6475233.ts
+<playlist>
+  <channel>
+    <id/>
+    <name>BBB MOSAICO</name>
+    <tvg_name>BBB MOSAICO</tvg_name>
+    <logo>https://i.ibb.co/cxLgSS7/bbb.png</logo>
+    <group>CANAIS I BBB 2026</group>
+    <url>http://entrar.sbs/live/rodrigotche/919090358/13949372.m3u8</url>
+  </channel>
